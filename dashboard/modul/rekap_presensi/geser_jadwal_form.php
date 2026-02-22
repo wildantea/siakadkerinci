@@ -187,6 +187,45 @@ include "../../inc/config.php";
             //hidden validate because we use chosen select
             $.validator.setDefaults({ ignore: ":hidden:not(select)" });
 
+            $("#sem_geser").change(function () {
+                if ($("#jur_geser").val() != "" && $("#sem_geser").val() != "") {
+                    $.ajax({
+                        url: "<?= base_admin(); ?>modul/kelas_jadwal/get_matkul.php",
+                        type: "POST",
+                        data: { jur_filter: $("#jur_geser").val(), sem_filter: $("#sem_geser").val() },
+                        success: function (data) {
+                            $("#matkul_geser").html(data);
+                            $("#matkul_geser").trigger("chosen:updated");
+                        }
+                    });
+                }
+            });
+            $("#fakultas_geser").change(function () {
+                $.ajax({
+                    type: "post",
+                    url: "<?= base_admin(); ?>modul/kelas_jadwal/get_prodi.php",
+                    data: { id_fakultas: this.value },
+                    success: function (data) {
+                        $("#jur_geser").html(data);
+                        $("#jur_geser").trigger("chosen:updated");
+
+                    }
+                });
+            });
+            $("#jur_geser").change(function () {
+                if ($("#jur_geser").val() != "" && $("#sem_geser").val() != "") {
+                    $.ajax({
+                        url: "<?= base_admin(); ?>modul/kelas_jadwal/get_matkul.php",
+                        type: "POST",
+                        data: { jur_filter: $("#jur_geser").val(), sem_filter: $("#sem_geser").val() },
+                        success: function (data) {
+                            $("#matkul_geser").html(data);
+                            $("#matkul_geser").trigger("chosen:updated");
+                        }
+                    });
+                }
+            });
+
             $("#input_data_pegawai").validate({
                 errorClass: "help-block",
                 errorElement: "span",

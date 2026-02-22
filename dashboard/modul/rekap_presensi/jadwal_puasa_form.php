@@ -149,6 +149,45 @@ include "../../inc/config.php";
         //hidden validate because we use chosen select
         $.validator.setDefaults({ ignore: ":hidden:not(select)" });
 
+        $("#sem_puasa").change(function () {
+            if ($("#jur_puasa").val() != "" && $("#sem_puasa").val() != "") {
+                $.ajax({
+                    url: "<?= base_admin(); ?>modul/kelas_jadwal/get_matkul.php",
+                    type: "POST",
+                    data: { jur_filter: $("#jur_puasa").val(), sem_filter: $("#sem_puasa").val() },
+                    success: function (data) {
+                        $("#matkul_puasa").html(data);
+                        $("#matkul_puasa").trigger("chosen:updated");
+                    }
+                });
+            }
+        });
+        $("#fakultas_puasa").change(function () {
+            $.ajax({
+                type: "post",
+                url: "<?= base_admin(); ?>modul/kelas_jadwal/get_prodi.php",
+                data: { id_fakultas: this.value },
+                success: function (data) {
+                    $("#jur_puasa").html(data);
+                    $("#jur_puasa").trigger("chosen:updated");
+
+                }
+            });
+        });
+        $("#jur_puasa").change(function () {
+            if ($("#jur_puasa").val() != "" && $("#sem_puasa").val() != "") {
+                $.ajax({
+                    url: "<?= base_admin(); ?>modul/kelas_jadwal/get_matkul.php",
+                    type: "POST",
+                    data: { jur_filter: $("#jur_puasa").val(), sem_filter: $("#sem_puasa").val() },
+                    success: function (data) {
+                        $("#matkul_puasa").html(data);
+                        $("#matkul_puasa").trigger("chosen:updated");
+                    }
+                });
+            }
+        });
+
         $("#input_data_puasa").validate({
             errorClass: "help-block",
             errorElement: "span",
