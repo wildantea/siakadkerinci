@@ -18,6 +18,7 @@
       <div class="box">
         <div class="box-header">
           <a id="geser_jadwal" class="btn btn-primary "><i class="fa fa-calendar"></i> Geser Jadwal Kuliah</a>
+          <a id="jadwal_puasa" class="btn btn-warning "><i class="fa fa-clock-o"></i> Ubah Jam Kuliah (Bulan Puasa)</a>
         </div><!-- /.box-header -->
         <div class="box-body table-responsive">
           <div class="box box-primary">
@@ -212,6 +213,20 @@
     $('#modal_data_pegawai').modal({ keyboard: false, backdrop: 'static', show: true });
 
   });
+
+  $("#jadwal_puasa").click(function () {
+    $.ajax({
+      url: "<?= base_admin(); ?>modul/rekap_presensi/jadwal_puasa_form.php",
+      type: "GET",
+      success: function (data) {
+        $("#isi_data_pegawai").html(data);
+      }
+    });
+
+    $('#modal_data_pegawai').modal({ keyboard: false, backdrop: 'static', show: true });
+
+  });
+
 
   $("#sem_filter").change(function () {
     if ($("#jur_filter").val() != "" && $("#sem_filter").val() != "") {
