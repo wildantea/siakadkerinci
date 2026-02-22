@@ -93,7 +93,7 @@ switch ($_GET["act"]) {
             INNER JOIN kelas k ON t.kelas_id = k.kelas_id
             INNER JOIN matkul m ON k.id_matkul = m.id_matkul
             INNER JOIN kurikulum ku ON m.kur_id = ku.kur_id
-            INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id
+            INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id and t.id_pertemuan='35646'
             $where_clause";
 
     $records = $db->query($sql);
@@ -143,6 +143,8 @@ switch ($_GET["act"]) {
     foreach ($records as $r) {
       $p_mulai = get_puasa_time($r->jam_mulai, true, $r->hari);
       $p_selesai = get_puasa_time($r->jam_selesai, false, $r->hari);
+
+
 
       $db->update(
         "tb_data_kelas_pertemuan",

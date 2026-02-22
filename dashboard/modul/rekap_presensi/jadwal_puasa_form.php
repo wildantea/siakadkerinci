@@ -59,9 +59,9 @@ include "../../inc/config.php";
         <div class="col-lg-5">
             <select id="sem_puasa" name="sem_puasa" data-placeholder="Pilih Semester ..."
                 class="form-control chzn-select" tabindex="2" required="">
-                <?php
-                looping_semester();
-                ?>
+                <option value="<?= get_sem_aktif() ?>">
+                    <?= get_tahun_akademik(get_sem_aktif()); ?>
+                </option>
             </select>
 
         </div>
