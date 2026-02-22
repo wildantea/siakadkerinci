@@ -1,0 +1,17 @@
+# File konfigurasi yang sensitif
+dashboard/inc/config.php
+
+# Semua file .php di dalam folder config (opsional, lebih aman)
+# dashboard/inc/*.php
+
+# Abaikan folder yang biasanya tidak perlu di-commit
+vendor/
+node_modules/
+.env
+*.log
+*.bak
+*.tmp
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
