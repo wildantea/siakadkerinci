@@ -1,0 +1,287 @@
+[29-Jan-2024 09:29:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_data.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:39:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_add.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:39:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_data.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:44:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:45:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:32:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:33:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_data.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:34:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_add.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:34:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_add.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:34:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_add.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:37:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:37:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:37:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:39:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:39:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:39:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:39:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:39:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:41:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_add.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:42:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:42:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:42:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:42:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_data.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:45:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:45:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:45:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/affirmasi_krs/affirmasi_krs_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39

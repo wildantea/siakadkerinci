@@ -1,0 +1,7 @@
+[29-Jan-2024 10:44:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/validasi_spp_simak/validasi_spp_simak_action.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39

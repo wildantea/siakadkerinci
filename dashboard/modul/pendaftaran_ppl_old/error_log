@@ -1,0 +1,9 @@
+[03-Sep-2018 12:22:31 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/pendaftaran_ppl/pendaftaran_ppl_data.php on line 45
+[03-Sep-2018 12:22:31 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/pendaftaran_ppl/pendaftaran_ppl_data.php on line 49
+[03-Sep-2018 12:22:31 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[06-Sep-2018 09:35:59 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/pendaftaran_ppl/pendaftaran_ppl_data.php on line 45
+[06-Sep-2018 09:35:59 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/pendaftaran_ppl/pendaftaran_ppl_data.php on line 49
+[06-Sep-2018 09:35:59 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[06-Sep-2018 09:41:32 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/pendaftaran_ppl/pendaftaran_ppl_data.php on line 45
+[06-Sep-2018 09:41:32 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/pendaftaran_ppl/pendaftaran_ppl_data.php on line 49
+[06-Sep-2018 09:41:32 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81

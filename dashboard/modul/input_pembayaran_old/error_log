@@ -1,0 +1,34 @@
+[01-Sep-2018 06:44:45 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_data.php on line 39
+[01-Sep-2018 06:44:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_data.php on line 97
+[05-Sep-2018 16:13:44 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 16:13:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_data.php on line 97
+[07-Sep-2018 22:08:39 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[07-Sep-2018 22:08:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_data.php on line 97
+[07-Sep-2018 23:00:52 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[07-Sep-2018 23:00:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_data.php on line 97
+[10-Sep-2018 10:23:25 Asia/Jakarta] PHP Notice:  Undefined index: id_tagihan in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 8
+[10-Sep-2018 10:23:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 8
+[10-Sep-2018 10:33:44 Asia/Jakarta] PHP Notice:  Undefined index: id_tagihan in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 8
+[10-Sep-2018 10:33:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 8
+[10-Sep-2018 10:35:54 Asia/Jakarta] PHP Notice:  Undefined index: id_tagihan in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 8
+[10-Sep-2018 10:35:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 8
+[25-Sep-2018 10:54:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/get_detail_tagihan.php on line 26
+[25-Sep-2018 10:58:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/search_nim.php on line 10
+[25-Sep-2018 10:59:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/search_nim.php on line 10
+[25-Sep-2018 11:31:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/get_detail_tagihan.php on line 49
+[25-Sep-2018 13:01:27 Asia/Jakarta] PHP Notice:  Undefined index: periode in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 33
+[25-Sep-2018 13:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: rand_time in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 48
+[25-Sep-2018 13:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: rand_time in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 48
+[25-Sep-2018 13:02:15 Asia/Jakarta] PHP Notice:  Undefined variable: rand_time in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 48
+[25-Sep-2018 13:02:57 Asia/Jakarta] PHP Notice:  Undefined variable: rand_time in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 48
+[25-Sep-2018 14:28:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 136
+[25-Sep-2018 14:29:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 136
+[25-Sep-2018 14:30:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 137
+[25-Sep-2018 14:33:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 138
+[25-Sep-2018 14:33:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 138
+[14-Dec-2018 09:20:29 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$afirmasi in /home/u5116884/public_html/dashboard/modul/input_pembayaran/get_detail_tagihan.php on line 41
+[23-Jul-2019 10:29:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/get_detail_tagihan.php on line 27
+[23-Jul-2019 10:30:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 71
+[23-Jul-2019 10:31:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/get_detail_tagihan.php on line 27
+[23-Jul-2019 10:31:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/input_pembayaran_action.php on line 71
+[23-Jul-2019 10:32:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/input_pembayaran/search_nim.php on line 10

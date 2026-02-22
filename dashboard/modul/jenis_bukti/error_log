@@ -1,0 +1,4 @@
+[23-Mar-2022 13:33:05 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[23-Mar-2022 13:33:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/jenis_bukti/jenis_bukti_data.php on line 30
+[23-Mar-2022 13:34:48 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[23-Mar-2022 13:34:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/jenis_bukti/jenis_bukti_data.php on line 30

@@ -1,0 +1,49 @@
+[27-Jan-2022 13:11:14 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/inc/Database.php on line 290
+[27-Jan-2022 13:12:24 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/inc/Database.php on line 290
+[27-Jan-2022 13:12:39 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/inc/Database.php on line 290
+[27-Jan-2022 13:12:58 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/u5116884/public_html/dashboard/inc/Database.php on line 290
+[27-Jan-2022 13:12:58 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/inc/Database.php on line 291
+[23-Mar-2022 02:46:19 Asia/Jakarta] PHP Notice:  Undefined index: act in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 5
+[23-Mar-2022 02:46:39 Asia/Jakarta] PHP Notice:  Undefined index: act in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 5
+[23-Mar-2022 02:47:00 Asia/Jakarta] PHP Notice:  Undefined variable: sem in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 32
+[23-Mar-2022 02:47:29 Asia/Jakarta] PHP Notice:  Undefined variable: no in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 14
+[23-Mar-2022 02:49:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 8
+[23-Mar-2022 02:49:40 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 8
+[23-Mar-2022 02:56:20 Asia/Jakarta] PHP Notice:  Undefined variable: v in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 24
+[23-Mar-2022 02:56:20 Asia/Jakarta] PHP Notice:  Trying to get property 'kode_baru' of non-object in /home/u5116884/public_html/dashboard/modul/mahasiswa_pindah/mahasiswa_pindah_action.php on line 24
+[23-Mar-2022 10:40:51 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/u5116884/public_html/dashboard/inc/function.php on line 187
+[23-Mar-2022 10:40:51 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 188
+[23-Mar-2022 12:50:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/inc/function.php on line 2537
+[23-Mar-2022 13:22:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/inc/function.php on line 749
+[02-May-2023 10:15:27 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[02-May-2023 10:15:27 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[02-May-2023 10:15:29 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[02-May-2023 10:15:29 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[02-May-2023 10:15:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[02-May-2023 10:15:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[02-May-2023 10:15:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[02-May-2023 10:15:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[02-May-2023 10:15:31 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[02-May-2023 10:15:31 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[05-May-2023 20:42:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[05-May-2023 20:42:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[05-May-2023 20:42:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[05-May-2023 20:42:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[05-May-2023 20:42:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[05-May-2023 20:42:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[05-May-2023 20:42:31 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[05-May-2023 20:42:31 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[05-May-2023 20:42:32 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[05-May-2023 20:42:32 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[06-May-2023 16:06:29 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[06-May-2023 16:06:29 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[06-May-2023 16:06:29 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[06-May-2023 16:06:29 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[06-May-2023 16:06:29 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[06-May-2023 16:06:29 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[06-May-2023 16:06:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[06-May-2023 16:06:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[06-May-2023 16:06:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[06-May-2023 16:06:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[06-May-2023 16:06:30 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[06-May-2023 16:06:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342

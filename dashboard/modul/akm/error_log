@@ -1,0 +1,40 @@
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 359
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 362
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 362
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 370
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 370
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[24-Sep-2018 21:53:47 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 359
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 362
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 362
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 370
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 370
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[25-Oct-2018 09:55:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 371
+[29-Jun-2022 09:07:22 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[26-Jul-2022 10:01:24 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[26-Jul-2022 10:17:04 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 369
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Trying to get property 'nama_resmi' of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 369
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 377
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Trying to get property 'nama_jur' of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 377
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 378
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 378
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 378
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 378
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 378
+[19-Aug-2022 10:37:38 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 378
+[19-Aug-2022 14:41:53 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[17-Oct-2022 15:25:08 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[18-Oct-2022 08:31:28 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366
+[18-Jan-2024 12:30:37 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/akm/cetak_akm.php on line 366

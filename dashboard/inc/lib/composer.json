@@ -1,0 +1,24 @@
+{
+    "name": "mytool/db",
+    "description": "my tool",
+    "require": {
+        "google/apiclient": "^2.0",
+        "pear/mail_mime": "dev-master",
+        "pear/mail_mime-decode": "dev-master",
+        "pear/pear_exception": "dev-master",
+        "bramus/router": "~1.4",
+        "rakit/validation": "^0.22.3",
+        "aws/aws-sdk-php": "^3.247",
+        "phpoffice/phpspreadsheet": "^1.25",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+    "psr-0": {
+      "Backend\\":"src/"
+    }
+    }
+}

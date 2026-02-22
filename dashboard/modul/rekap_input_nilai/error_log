@@ -1,0 +1,306 @@
+[24-Sep-2018 22:14:07 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[24-Sep-2018 22:14:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[22-Nov-2018 08:57:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[22-Nov-2018 08:57:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[22-Nov-2018 08:57:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[22-Nov-2018 08:57:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[06-Dec-2018 09:14:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[19-Dec-2018 09:37:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[08-Jan-2019 12:09:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[08-Jan-2019 12:09:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[16-Jan-2019 09:59:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[16-Jan-2019 10:03:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[23-Jan-2019 21:38:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[24-Jan-2019 09:37:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[24-Jan-2019 09:38:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[24-Jan-2019 11:09:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[24-Jan-2019 12:08:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[19-Mar-2019 09:27:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[19-Mar-2019 09:27:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[19-Mar-2019 11:10:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[02-May-2019 15:46:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[08-May-2019 08:51:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[19-May-2019 10:49:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[22-Jun-2019 10:47:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[24-Jun-2019 15:42:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[26-Jun-2019 16:26:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[27-Jun-2019 09:40:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[05-Jul-2019 11:47:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[05-Jul-2019 15:19:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[05-Jul-2019 15:22:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[05-Jul-2019 18:15:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[05-Jul-2019 18:17:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 80
+[05-Jul-2019 18:22:50 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kls_nama in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 97
+[05-Jul-2019 18:22:59 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kls_nama in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 88
+[05-Jul-2019 18:22:59 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kls_nama in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 88
+[05-Jul-2019 18:23:04 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kls_nama in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 88
+[05-Jul-2019 18:23:06 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kls_nama in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 88
+[05-Jul-2019 19:20:19 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 57
+[05-Jul-2019 19:20:19 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 58
+[25-Jan-2022 11:00:22 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[25-Jan-2022 11:00:22 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[25-Jan-2022 11:00:22 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[25-Jan-2022 11:00:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[10-Feb-2022 23:00:01 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[10-Feb-2022 23:00:01 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[10-Feb-2022 23:00:01 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[10-Feb-2022 23:00:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Feb-2022 10:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Feb-2022 10:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[18-Feb-2022 10:59:09 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[18-Feb-2022 10:59:09 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[18-Feb-2022 10:59:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[09-Mar-2022 09:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[09-Mar-2022 09:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[09-Mar-2022 09:32:30 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[09-Mar-2022 09:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[09-Mar-2022 09:32:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[09-Mar-2022 09:32:59 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[09-Mar-2022 09:32:59 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[09-Mar-2022 09:32:59 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[09-Mar-2022 09:32:59 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[09-Mar-2022 09:32:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[23-Mar-2022 10:42:06 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[23-Mar-2022 10:42:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[23-Mar-2022 10:42:50 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[23-Mar-2022 10:42:50 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[23-Mar-2022 10:42:50 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[23-Mar-2022 10:42:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[09-Apr-2022 22:34:22 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[09-Apr-2022 22:34:22 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[09-Apr-2022 22:34:22 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[09-Apr-2022 22:34:22 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[09-Apr-2022 22:34:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[09-Apr-2022 22:34:41 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[09-Apr-2022 22:34:41 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[09-Apr-2022 22:34:41 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[09-Apr-2022 22:34:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jun-2022 08:19:28 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jun-2022 08:19:28 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jun-2022 08:19:28 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[13-Jun-2022 08:19:28 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jun-2022 08:19:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jun-2022 08:19:46 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jun-2022 08:19:46 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jun-2022 08:19:46 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[13-Jun-2022 08:19:46 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jun-2022 08:19:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jun-2022 08:24:50 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jun-2022 08:24:50 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jun-2022 08:24:50 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[13-Jun-2022 08:24:50 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jun-2022 08:24:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jun-2022 08:29:17 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jun-2022 08:29:17 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jun-2022 08:29:17 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jun-2022 08:29:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jun-2022 12:00:53 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jun-2022 12:00:53 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jun-2022 12:00:53 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[13-Jun-2022 12:00:53 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jun-2022 12:00:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jun-2022 12:01:22 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jun-2022 12:01:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[16-Jun-2022 21:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[16-Jun-2022 21:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[16-Jun-2022 21:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[16-Jun-2022 21:18:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[16-Jun-2022 21:57:00 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[16-Jun-2022 21:57:00 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[16-Jun-2022 21:57:00 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[16-Jun-2022 21:57:00 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[16-Jun-2022 21:57:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 09:14:45 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 09:14:45 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[21-Jun-2022 09:14:45 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[21-Jun-2022 09:14:45 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[21-Jun-2022 09:14:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 09:15:16 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 09:15:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 09:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 09:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[21-Jun-2022 09:15:42 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[21-Jun-2022 09:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[21-Jun-2022 09:15:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 09:16:26 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 09:16:26 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[21-Jun-2022 09:16:26 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[21-Jun-2022 09:16:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 10:01:00 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 10:01:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 12:42:32 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 12:42:32 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[21-Jun-2022 12:42:32 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[21-Jun-2022 12:42:32 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[21-Jun-2022 12:42:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[21-Jun-2022 12:42:46 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[21-Jun-2022 12:42:46 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[21-Jun-2022 12:42:46 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[21-Jun-2022 12:42:46 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[21-Jun-2022 12:42:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[05-Jul-2022 09:56:31 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[05-Jul-2022 09:56:31 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[05-Jul-2022 09:56:31 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[05-Jul-2022 09:56:31 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[05-Jul-2022 09:56:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[03-Oct-2022 08:40:18 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[03-Oct-2022 08:40:18 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[03-Oct-2022 08:40:18 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[03-Oct-2022 08:40:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[04-Oct-2022 09:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[04-Oct-2022 09:17:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[03-Jan-2023 15:08:31 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[03-Jan-2023 15:08:31 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[03-Jan-2023 15:08:31 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[03-Jan-2023 15:08:31 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[03-Jan-2023 15:08:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[04-Jan-2023 10:59:10 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[04-Jan-2023 10:59:10 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[04-Jan-2023 10:59:10 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[04-Jan-2023 10:59:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[04-Jan-2023 11:06:55 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[04-Jan-2023 11:06:55 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[04-Jan-2023 11:06:55 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[04-Jan-2023 11:06:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[04-Jan-2023 11:11:17 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[04-Jan-2023 11:11:17 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[04-Jan-2023 11:11:17 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[04-Jan-2023 11:11:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[04-Jan-2023 11:39:22 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[04-Jan-2023 11:39:22 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[04-Jan-2023 11:39:22 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[04-Jan-2023 11:39:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[05-Jan-2023 11:56:29 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[05-Jan-2023 11:56:29 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[05-Jan-2023 11:56:29 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[05-Jan-2023 11:56:29 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[05-Jan-2023 11:56:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[09-Jan-2023 09:11:35 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[09-Jan-2023 09:11:35 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[09-Jan-2023 09:11:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[11-Jan-2023 09:00:14 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[11-Jan-2023 09:00:14 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[11-Jan-2023 09:00:14 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[11-Jan-2023 09:00:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[12-Jan-2023 17:26:50 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[12-Jan-2023 17:26:50 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[12-Jan-2023 17:26:50 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[12-Jan-2023 17:26:50 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[12-Jan-2023 17:26:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[12-Jan-2023 17:27:52 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[12-Jan-2023 17:27:52 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[12-Jan-2023 17:27:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[12-Jan-2023 17:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[12-Jan-2023 17:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[12-Jan-2023 17:29:48 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[12-Jan-2023 17:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[12-Jan-2023 17:29:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[13-Jan-2023 10:26:07 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jan-2023 10:26:07 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jan-2023 10:26:07 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jan-2023 10:26:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Jan-2023 15:16:32 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Jan-2023 15:16:32 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[18-Jan-2023 15:16:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Jan-2023 21:27:37 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Jan-2023 21:27:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Jan-2023 21:29:02 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Jan-2023 21:29:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[10-Feb-2023 11:07:13 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[10-Feb-2023 11:07:13 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[10-Feb-2023 11:07:13 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[10-Feb-2023 11:07:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[17-May-2023 08:32:54 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[17-May-2023 08:32:54 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[17-May-2023 08:32:54 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[17-May-2023 08:32:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[17-May-2023 08:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[17-May-2023 08:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[17-May-2023 08:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[17-May-2023 08:33:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[24-Jun-2023 13:30:09 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[24-Jun-2023 13:30:09 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[24-Jun-2023 13:30:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[24-Jun-2023 13:30:28 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[24-Jun-2023 13:30:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[30-Jun-2023 23:25:14 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[30-Jun-2023 23:25:14 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[30-Jun-2023 23:25:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[07-Jul-2023 09:21:17 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[07-Jul-2023 09:21:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/rekap_data.php on line 82
+[12-Jul-2023 10:25:33 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[12-Jul-2023 10:25:33 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[13-Jul-2023 09:18:33 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[13-Jul-2023 09:18:33 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[13-Jul-2023 09:18:33 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[13-Jul-2023 09:18:33 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[13-Jul-2023 09:18:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[17-Jul-2023 14:40:04 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[17-Jul-2023 14:40:04 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[17-Jul-2023 14:40:08 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[17-Jul-2023 14:40:08 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[25-Aug-2023 19:33:40 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[25-Aug-2023 19:33:40 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[25-Aug-2023 19:33:40 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[25-Aug-2023 19:33:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[25-Sep-2023 08:32:25 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/inc/function.php on line 360
+[25-Sep-2023 08:32:25 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 361
+[28-Nov-2023 11:57:00 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[28-Nov-2023 11:57:00 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[28-Nov-2023 11:57:00 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[28-Nov-2023 11:57:00 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[28-Nov-2023 11:57:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[11-Dec-2023 11:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[11-Dec-2023 11:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[11-Dec-2023 11:25:20 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[11-Dec-2023 11:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[11-Dec-2023 11:25:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[08-Jan-2024 09:52:41 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[08-Jan-2024 09:52:41 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[08-Jan-2024 09:52:41 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[08-Jan-2024 09:52:41 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[08-Jan-2024 09:52:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[08-Jan-2024 09:52:57 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[08-Jan-2024 09:52:57 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[08-Jan-2024 09:52:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[08-Jan-2024 09:53:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/inc/function.php on line 360
+[08-Jan-2024 09:53:29 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 361
+[08-Jan-2024 09:53:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/inc/function.php on line 360
+[08-Jan-2024 09:53:30 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 361
+[08-Jan-2024 09:54:14 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[08-Jan-2024 09:54:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[08-Jan-2024 09:54:33 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/inc/function.php on line 360
+[08-Jan-2024 09:54:33 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 361
+[09-Jan-2024 09:12:56 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[09-Jan-2024 09:12:56 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[09-Jan-2024 09:12:56 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[09-Jan-2024 09:12:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[14-Jan-2024 09:34:35 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[14-Jan-2024 09:34:35 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[14-Jan-2024 09:34:35 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[14-Jan-2024 09:34:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[14-Jan-2024 17:15:22 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[14-Jan-2024 17:15:22 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[14-Jan-2024 17:15:22 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[14-Jan-2024 17:15:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[14-Jan-2024 19:25:43 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[14-Jan-2024 19:25:43 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[14-Jan-2024 19:25:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[14-Jan-2024 19:25:59 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[14-Jan-2024 19:25:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[15-Jan-2024 19:45:18 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[15-Jan-2024 19:45:18 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[15-Jan-2024 19:45:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Jan-2024 13:20:26 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Jan-2024 13:20:26 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[18-Jan-2024 13:20:26 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[18-Jan-2024 13:20:26 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[18-Jan-2024 13:20:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Jan-2024 13:20:51 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Jan-2024 13:20:51 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 373
+[18-Jan-2024 13:20:51 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[18-Jan-2024 13:20:51 Asia/Jakarta] PHP Notice:  Undefined variable: status_nilai in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 397
+[18-Jan-2024 13:20:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399
+[18-Jan-2024 13:21:05 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 364
+[18-Jan-2024 13:21:05 Asia/Jakarta] PHP Notice:  Trying to get property 'jurusan' of non-object in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 374
+[18-Jan-2024 13:21:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/rekap_input_nilai/cetak.php on line 399

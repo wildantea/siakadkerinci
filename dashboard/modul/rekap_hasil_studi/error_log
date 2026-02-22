@@ -1,0 +1,16 @@
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 367
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: fk in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 370
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 370
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: fk in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 378
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 378
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 379
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 379
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 379
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 379
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 379
+[10-Sep-2018 12:33:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 379
+[26-Jan-2022 10:54:36 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 367
+[02-Dec-2022 13:56:41 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 367
+[02-Dec-2022 13:58:18 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 367
+[29-Jan-2023 14:21:44 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 367
+[03-Jul-2023 12:38:44 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/rekap_hasil_studi/cetak_rhs.php on line 367

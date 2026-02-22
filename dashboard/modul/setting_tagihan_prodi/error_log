@@ -1,0 +1,7 @@
+[01-Sep-2018 07:30:25 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[01-Sep-2018 07:30:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/setting_tagihan_prodi/setting_tagihan_prodi_data.php on line 70
+[24-Sep-2018 22:33:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/setting_tagihan_prodi/setting_tagihan_prodi_action.php on line 99
+[24-Sep-2018 22:34:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/setting_tagihan_prodi/setting_tagihan_prodi_action.php on line 99
+[24-Sep-2018 22:34:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/staialj1/siakad.stai-aljawami.ac.id/dashboard/modul/setting_tagihan_prodi/setting_tagihan_prodi_action.php on line 99
+[03-May-2023 15:11:15 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[03-May-2023 15:11:15 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342

@@ -1,0 +1,33 @@
+[23-Mar-2022 01:45:02 Asia/Jakarta] PHP Warning:  require(../../lib/simplexlsx.class.php): failed to open stream: No such file or directory in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_action.php on line 6
+[23-Mar-2022 01:45:02 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../../lib/simplexlsx.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_action.php on line 6
+[23-Mar-2022 01:45:17 Asia/Jakarta] PHP Warning:  require(../../lib/simplexlsx.class.php): failed to open stream: No such file or directory in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_action.php on line 6
+[23-Mar-2022 01:45:17 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../../lib/simplexlsx.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_action.php on line 6
+[23-Mar-2022 12:06:08 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:06:08 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:06:08 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:06:08 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[23-Mar-2022 12:06:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37
+[23-Mar-2022 12:07:09 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:07:09 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:07:09 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:07:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37
+[23-Mar-2022 12:07:10 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:07:10 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:07:10 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:07:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:07:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37
+[23-Mar-2022 12:08:16 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:08:16 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:08:16 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:08:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37
+[23-Mar-2022 12:08:52 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[23-Mar-2022 12:08:52 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[23-Mar-2022 12:08:52 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[23-Mar-2022 12:08:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/skala_nilai/skala_nilai_data.php on line 37

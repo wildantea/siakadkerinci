@@ -1,0 +1,35 @@
+[08-Sep-2018 23:11:27 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[08-Sep-2018 23:11:30 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[08-Sep-2018 23:41:30 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:41:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:41:35 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:41:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:41:49 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:41:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:42:41 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:42:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:44:06 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:44:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:44:38 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:44:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:44:44 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:44:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:46:06 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[08-Sep-2018 23:46:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 45
+[08-Sep-2018 23:46:24 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[08-Sep-2018 23:46:26 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[08-Sep-2018 23:46:30 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[08-Sep-2018 23:46:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[08-Sep-2018 23:49:18 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_edit.php on line 18
+[09-Sep-2018 00:01:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 83
+[09-Sep-2018 00:01:23 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 83
+[09-Sep-2018 00:02:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 81
+[09-Sep-2018 00:03:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$gedung_id in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 85
+[09-Sep-2018 00:03:39 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kode_jur in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 87
+[09-Sep-2018 00:04:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 82
+[09-Sep-2018 00:05:02 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kode_jur in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 87
+[09-Sep-2018 00:08:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kode_jur in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 82
+[09-Sep-2018 00:10:11 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kode_jur in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 83
+[09-Sep-2018 00:11:19 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kode_jur in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 83
+[09-Sep-2018 00:12:22 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$kode_jur in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/download_data.php on line 86
+[02-Oct-2018 11:00:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/ruang_kuliah/ruang_kuliah_data.php on line 58

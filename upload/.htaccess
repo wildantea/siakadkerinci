@@ -1,0 +1,9 @@
+Options All -Indexes
+
+Order allow,deny
+Deny from all
+
+<FilesMatch '(?i)\.(jpg|jpeg|png|gif|webp|tiff|svg|psd|pdf|doc|docx|odt|ppt|pptx|txt|csv|tsv|sql|db|xls|xlsx|zip|tar|rar|gz)$'>
+   Order allow,deny
+   Allow from all
+</FilesMatch>

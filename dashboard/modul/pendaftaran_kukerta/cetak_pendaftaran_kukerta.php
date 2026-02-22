@@ -1,0 +1,139 @@
+<?php
+session_start();
+include "../../inc/config.php";
+session_check();
+?>
+<style type="text/css"> .datepicker {z-index: 1200 !important; } </style>
+  <form  class="form-horizontal foto_banyak" id="sem" target="__Blank" action="<?=base_admin().'modul/pendaftaran_kukerta/cetak_kukerta.php'?>" method="post">
+<?php
+  if($_SESSION['group_level'] == 'admin') {
+?>
+    <div class="form-group">
+      <label for="Semester" class="control-label col-lg-2">Fakultas <span style="color:#FF0000;">*</span></label>
+      <div class="col-lg-10">
+        <select id="fakultas_cetak" name="fakultas_filter" data-placeholder="Pilih Fakultas ..." class="form-control chzn-select" tabindex="2">
+           <option value=""></option>
+           <?php
+           echo "<option value='all'>Semua</option>";
+           foreach ($db->fetch_all("fakultas") as $isi) {
+              echo "<option value='$isi->kode_fak'>$isi->nama_resmi</option>";
+           } ?>
+        </select>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="Semester" class="control-label col-lg-2">Jurusan</label>
+      <div class="col-lg-10">
+        <select id="jurusan_cetak" name="jurusan_filter" data-placeholder="Pilih Jurusan ..." class="form-control chzn-select" tabindex="2">
+          <option value=""></option>
+        </select>
+      </div>
+    </div>
+    <div class="form-group">
+        <label for="Semester" class="control-label col-lg-2">Priode <span style="color:#FF0000;">*</span></label>
+        <div class="col-lg-10">
+          <select id="priode_filter" name="priode_filter" data-placeholder="Pilih Priode Kukerta ..." class="form-control chzn-select" tabindex="2">
+             <option value=""></option>
+             <?php
+             echo "<option value='all'>Semua</option>";
+             foreach ($db->query("select * from priode_kkn jm join semester_ref sr on jm.priode=sr.id_semester join jenis_semester j on sr.id_jns_semester=j.id_jns_semester order by sr.id_semester desc") as $isi) {
+                echo "<option value='$isi->id_priode'>$isi->jns_semester $isi->tahun/".($isi->tahun+1)."</option>";
+             } ?>
+          </select>
+        </div>
+    </div>
+<?php
+  }else {
+?>
+    <div class="form-group">
+      <label for="Semester" class="control-label col-lg-2">Jurusan <span style="color:#FF0000;">*</span></label>
+      <div class="col-lg-10">
+        <select id="jurusan_filter" name="jurusan_filter" data-placeholder="Pilih Semester ..." class="form-control chzn-select" tabindex="2">
+         
+           <?php
+           looping_prodi();
+           ?>          
+        </select>
+      </div>
+    </div>
+    <div class="form-group">
+        <label for="Semester" class="control-label col-lg-2">Priode <span style="color:#FF0000;">*</span></label>
+        <div class="col-lg-10">
+          <select id="priode_filter" name="priode_filter" data-placeholder="Pilih Priode Kukerta ..." class="form-control chzn-select" tabindex="2">
+             <option value="all">Semua</option>
+             <?php
+             foreach ($db->query("select * from priode_kkn jm join semester_ref sr on jm.priode=sr.id_semester join jenis_semester j on sr.id_jns_semester=j.id_jns_semester order by sr.id_semester desc") as $isi) {
+                echo "<option value='$isi->id_priode'>$isi->jns_semester $isi->tahun/".($isi->tahun+1)."</option>";
+             } ?>
+          </select>
+        </div>
+    </div>
+
+<?php
+  }
+?>
+
+
+
+           <div class="form-group">
+              <label for="Lokasi" class="control-label col-lg-2">Jenis Kelamin</label>
+               <div class="col-lg-10">
+                <input type="radio" name="jk" value="L"> Laki-laki 
+                <input type="radio" name="jk" value="P"> Perempuan 
+              </div>
+          </div>
+   
+
+    <div class="form-group">
+      <label for="Lokasi" class="control-label col-lg-2">Lokasi <span style="color:#FF0000;">*</span></label>
+      <div class="col-lg-10">
+        <select id="lokasi_filter" name="lokasi_filter" data-placeholder="Pilih Lokasi ..." class="form-control chzn-select" tabindex="2">
+          <option value=""></option>
+           <?php
+           echo "<option value='all'>Semua</option>";
+           foreach ($db->fetch_all("lokasi_kkn") as $isi) {
+              echo "<option value='$isi->id_lokasi'>$isi->nama_lokasi</option>";
+           } ?>          
+        </select>
+      </div>
+    </div>    
+    <div class="form-group">
+      <label for="cetak" class="control-label col-lg-2">&nbsp;</label>
+      <div class="col-lg-4">
+        <button type="button" class="btn btn-default" data-dismiss="modal"><span class="fa fa-step-backward"></span> <?php echo $lang["cancel_button"];?></button>
+        <button type="submit" class="btn btn-primary"><span class="fa fa-print"></span> Cetak </button>
+      </div>
+    </div>
+  </form>
+<script type="text/javascript">
+  $("#fakultas_cetak").change(function(){
+
+        $.ajax({
+        type : "post",
+        url : "<?=base_admin();?>modul/pendaftaran_kukerta/get_jurusan_filter.php",
+        data : {fakultas:this.value},
+        success : function(data) {
+            $("#jurusan_cetak").html(data);
+            $("#jurusan_cetak").trigger("chosen:updated");
+
+        }
+    });
+
+  });
+$(document).ready(function() {
+      //chosen select
+      $(".chzn-select").chosen();
+      $(".chzn-select-deselect").chosen({
+          allow_single_deselect: true
+      });
+
+
+
+      //trigger validation onchange
+      $('select').on('change', function() {
+          $(this).valid();
+      });
+      //hidden validate because we use chosen select
+      $.validator.setDefaults({ ignore: ":hidden:not(select)" });
+});
+</script>

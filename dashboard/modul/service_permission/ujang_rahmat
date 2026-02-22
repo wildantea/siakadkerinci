@@ -1,0 +1,15 @@
+root
+Zte521
+
+/ # cat /temp/ppp/options.oe0 
+plugin rp-pppoe.so
+user 131163108260@telkom.net
+password OHAKLH58OM
+lcp-echo-failure 20
+lcp-echo-interval 30
+mru 1400
+mtu 1492
+usepeerdns
+
+
+

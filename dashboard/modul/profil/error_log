@@ -1,0 +1,509 @@
+[28-Jan-2022 14:01:31 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[28-Jan-2022 14:01:31 Asia/Jakarta] PHP Notice:  Undefined index: last_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[28-Jan-2022 14:01:31 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[28-Jan-2022 14:01:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 37
+[28-Jan-2022 14:01:36 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[28-Jan-2022 14:01:36 Asia/Jakarta] PHP Notice:  Undefined index: last_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[28-Jan-2022 14:01:36 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[28-Jan-2022 14:01:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 37
+[25-Jun-2022 19:49:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:50:49 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:50:51 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:51:28 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:51:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:51:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:51:41 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:51:43 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[25-Jun-2022 19:51:44 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[27-Jun-2022 14:06:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[27-Jun-2022 14:06:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpnh1uwn' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[27-Jun-2022 14:06:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[27-Jun-2022 14:07:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[27-Jun-2022 14:07:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpWgUtWI' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[27-Jun-2022 14:07:07 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Jun-2022 09:54:40 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Jun-2022 09:54:47 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[27-Jul-2022 19:44:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[27-Jul-2022 19:44:49 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Aug-2022 16:41:48 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[30-Aug-2022 16:41:48 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpCo8Tqn' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[30-Aug-2022 16:41:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Aug-2022 16:41:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[30-Aug-2022 16:41:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpqvCW6S' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[30-Aug-2022 16:41:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Sep-2022 18:12:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Sep-2022 18:12:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpwNHcqO' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Sep-2022 18:12:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Sep-2022 18:13:17 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Sep-2022 18:13:17 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpcFeRkw' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Sep-2022 18:13:17 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:10:20 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:10:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:10:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:11:27 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:11:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:12:20 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:12:38 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:12:49 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Sep-2022 10:13:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[18-Sep-2022 11:59:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[18-Sep-2022 12:00:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[18-Sep-2022 12:00:27 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:35:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:35:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php04ofla' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:35:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:35:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:35:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpyEIHlc' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:35:09 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:35:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:35:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpHsozuZ' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:35:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:36:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpE9xInd' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:18 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:36:21 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:21 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpWbFU1e' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:36:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpo1V6vr' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:28 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:36:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpSj4FdN' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[19-Sep-2022 10:36:36 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:36 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpgMriCl' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[19-Sep-2022 10:36:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[20-Sep-2022 05:29:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[20-Sep-2022 05:29:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpM8c8WV' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[20-Sep-2022 05:29:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[20-Sep-2022 05:29:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[20-Sep-2022 05:29:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php5qPq0r' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[20-Sep-2022 05:29:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:30:20 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:30:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:31:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:33:07 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:33:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:35:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 08:36:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 13:02:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 13:02:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 13:03:56 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[30-Sep-2022 13:03:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Oct-2022 12:10:14 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[01-Oct-2022 12:10:14 Asia/Jakarta] PHP Notice:  Undefined index: last_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[01-Oct-2022 12:10:14 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[01-Oct-2022 12:10:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 37
+[01-Oct-2022 12:10:22 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[01-Oct-2022 12:10:22 Asia/Jakarta] PHP Notice:  Undefined index: last_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[01-Oct-2022 12:10:22 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[01-Oct-2022 12:10:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 37
+[18-Oct-2022 09:37:23 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[18-Oct-2022 09:38:25 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[18-Oct-2022 09:38:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[31-Oct-2022 11:05:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[31-Oct-2022 11:05:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpYnKBEH' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[31-Oct-2022 11:05:28 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Nov-2022 20:27:43 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:27:43 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpogRUtX' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:27:43 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Nov-2022 20:29:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:29:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpBMfKm8' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:29:18 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Nov-2022 20:50:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:50:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php88iXN4' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:50:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Nov-2022 20:50:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:50:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpwyVjC7' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:50:47 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Nov-2022 20:50:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:50:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpacCTKj' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[01-Nov-2022 20:50:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[02-Nov-2022 20:07:12 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:07:12 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpIewqIS' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:07:12 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[02-Nov-2022 20:08:51 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:08:51 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpDFmeao' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:08:51 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[02-Nov-2022 20:12:27 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:12:27 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpuWOCmf' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:12:27 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[02-Nov-2022 20:12:34 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:12:34 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpW5YobX' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[02-Nov-2022 20:12:34 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Nov-2022 11:47:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Nov-2022 11:49:25 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Dec-2022 12:08:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Dec-2022 12:08:19 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Dec-2022 12:08:29 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Dec-2022 12:08:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Dec-2022 12:09:39 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[01-Dec-2022 12:09:46 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x00 0x00 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpT76aTx' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  Division by zero in /home/u5116884/public_html/dashboard/inc/Database.php on line 769
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/u5116884/public_html/dashboard/inc/Database.php on line 772
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 775
+[09-Jan-2023 10:54:19 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 776
+[09-Jan-2023 21:51:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:51:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpZnyppM' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:51:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 21:52:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpiTa8hn' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:37 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 21:52:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpb2qMtt' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 21:52:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpcQc10E' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:52 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 21:52:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpB36cQd' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:52:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[09-Jan-2023 21:53:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:53:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpKkJrWh' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[09-Jan-2023 21:53:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Jan-2023 19:42:29 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Jan-2023 19:42:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Jan-2023 19:43:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Jan-2023 19:44:10 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[24-Jan-2023 19:44:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[31-Jan-2023 10:37:57 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[31-Jan-2023 10:37:57 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpddi3wC' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 749
+[31-Jan-2023 10:37:57 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 773
+[15-Jun-2023 07:40:25 Asia/Jakarta] PHP Warning:  getimagesize(): corrupt JPEG data: 18 extraneous bytes before marker in /home/u5116884/public_html/dashboard/inc/Database.php on line 765
+[15-Jun-2023 07:40:34 Asia/Jakarta] PHP Warning:  getimagesize(): corrupt JPEG data: 18 extraneous bytes before marker in /home/u5116884/public_html/dashboard/inc/Database.php on line 765
+[26-Jul-2023 09:26:57 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:26:57 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php8R3ZOI' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:26:57 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php90F7G3' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:07 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:14 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:14 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpMvPMNG' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:14 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phppnFLss' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:18 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpaMaiqj' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpWBJPs7' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpQlOepc' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:52 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:27:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpGRFgzm' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:27:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:28:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpbq3uwF' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:28:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpD2YTU9' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:28:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpli73Bz' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:52 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:28:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpv2uYRf' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:28:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:31:36 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:31:36 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php0zLRyV' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:31:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:31:41 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:31:41 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpCdyBOS' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:31:41 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:31:51 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:31:51 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpuqqTxe' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:31:51 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:32:00 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:00 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpuSY83U' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:00 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:32:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpO1rA2M' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:32:33 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:33 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpySCgcM' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:33 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:32:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phperYJkB' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 09:32:49 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:49 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpXMvDXb' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 09:32:49 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php67oO3S' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:09 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php5xY7A1' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:28 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpKwqAyi' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:34 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:34 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpVbfq1F' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:34 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php65Bm09' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:37 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:39 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:39 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpZmA0sJ' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:39 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpmDdC86' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:44 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:44 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpcFUDBS' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:44 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:04:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpom8zTd' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:04:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 10:05:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:05:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php0FZUZQ' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 10:05:07 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:41:48 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:41:48 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpOeMyp0' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:41:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:41:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:41:52 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpczt9Vm' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:41:52 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:41:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:41:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php6EIpjO' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:41:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:42:02 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:42:02 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php46ez2x' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:42:02 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:42:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:42:18 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php5Drzqu' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:42:18 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:42:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:42:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpHsuG3v' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:42:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 13:43:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:43:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpNrzMNK' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 13:43:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:58:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpRRvb9b' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:31 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:58:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php1z9pTr' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:58:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpLCN0SN' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:37 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:58:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:45 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpN69FqH' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:58:45 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:59:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:59:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpFNVItd' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:59:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:59:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:59:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpz43OZg' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:59:04 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 16:59:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:59:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpBmGL0V' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 16:59:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:11:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:11:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpLHNfBy' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:11:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:11:46 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:11:46 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpuXXrRH' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:11:46 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:11:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:11:50 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpHfliV0' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:11:50 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:12:34 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:12:34 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php7vejRS' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:12:34 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:12:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:12:42 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpywv7gc' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:12:42 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:12:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:12:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpldmMYt' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:12:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpfLgnpx' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:03 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:03 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpHJDJiE' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:03 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpjHsukQ' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:04 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:07 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpv409A8' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:07 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:09 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpnr4BIv' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:09 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:11 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:11 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phplwfH1Z' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:11 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:14 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:14 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phplUVUb4' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:14 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:16 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:16 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpJleqbE' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:21 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:21 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpz86o5t' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:21 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpEYz3LO' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:29 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:29 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpySrZoX' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:29 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php0okmlk' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:38 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:38 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpcc225O' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:38 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:13:40 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:40 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpcgy12o' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:13:40 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:14:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:14:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpvzW4pS' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:14:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:14:13 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:14:13 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpktHTg5' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:14:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:39:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:39:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phppor2Sn' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:39:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:39:41 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:39:41 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpaCaKvE' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:39:41 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:40:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:06 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpCIOMsS' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:06 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:40:13 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:13 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpy72Gi9' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:40:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpHUfnSH' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:47 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 17:40:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpsssw7N' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 17:40:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[26-Jul-2023 18:19:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 18:19:54 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpvgTKmd' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[26-Jul-2023 18:19:54 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[31-Aug-2023 07:33:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:33:05 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpWY3cPB' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:33:05 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[31-Aug-2023 07:33:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:33:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpspZe5m' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:33:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[31-Aug-2023 07:34:46 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:34:46 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpTlym4k' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:34:46 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[31-Aug-2023 07:34:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:34:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpK9JrR6' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:34:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[31-Aug-2023 07:35:00 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:35:00 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php8tMyPb' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:35:00 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[31-Aug-2023 07:35:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:35:04 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpoA6SIc' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[31-Aug-2023 07:35:04 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[03-Sep-2023 18:06:20 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[03-Sep-2023 18:06:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[03-Sep-2023 18:07:46 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  imagecreatefrombmp(): Filename cannot be empty in /home/u5116884/public_html/dashboard/inc/Database.php on line 774
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/u5116884/public_html/dashboard/inc/Database.php on line 777
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  Division by zero in /home/u5116884/public_html/dashboard/inc/Database.php on line 781
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/u5116884/public_html/dashboard/inc/Database.php on line 784
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 787
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 788
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 28
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Notice:  Trying to get property 'foto_user' of non-object in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 28
+[08-Sep-2023 14:01:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 37
+[07-Oct-2023 14:41:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:36:25 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:36:36 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:37:04 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:37:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:37:32 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:38:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:41:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:42:02 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 08:42:07 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 09:04:00 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 09:04:02 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 09:04:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 09:04:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 09:09:19 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 09:09:22 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 16:17:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Oct-2023 16:17:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpvznzUh' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Oct-2023 16:17:58 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 16:22:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Oct-2023 16:22:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpEsjbVo' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Oct-2023 16:22:35 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Oct-2023 16:24:22 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Oct-2023 16:24:22 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpxpJ7AB' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Oct-2023 16:24:22 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[09-Oct-2023 12:04:10 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[09-Oct-2023 12:04:10 Asia/Jakarta] PHP Notice:  Undefined index: last_name in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[09-Oct-2023 12:04:10 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 11
+[09-Oct-2023 12:04:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u5116884/public_html/dashboard/modul/profil/profil_action.php on line 37
+[15-Dec-2023 21:15:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[15-Dec-2023 21:15:15 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php20Quoi' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[15-Dec-2023 21:15:15 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[15-Dec-2023 21:16:49 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[15-Dec-2023 21:16:49 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpz0Smj7' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[15-Dec-2023 21:16:49 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[08-Jan-2024 12:27:43 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Jan-2024 12:27:43 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php4LVVOp' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[08-Jan-2024 12:27:43 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:04:08 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:04:08 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpjFQDPE' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:04:08 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:04:17 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:04:17 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpNSTAII' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:04:17 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:04:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:04:24 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpNieYaF' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:04:24 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:05:16 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:05:16 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpoihoOf' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:05:16 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:05:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:05:47 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php0bHacz' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:05:47 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:06:20 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:06:20 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/php0tKDDz' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:06:20 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:06:23 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:06:23 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpyACwVF' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:06:23 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[11-Jan-2024 09:06:26 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:06:26 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpHMtclq' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[11-Jan-2024 09:06:26 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x3c 0x3f in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpVeU8Rg' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  Division by zero in /home/u5116884/public_html/dashboard/inc/Database.php on line 781
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/u5116884/public_html/dashboard/inc/Database.php on line 784
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 787
+[24-Jan-2024 17:51:55 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 788
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x3c 0x3f in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpRJf1qG' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  Division by zero in /home/u5116884/public_html/dashboard/inc/Database.php on line 781
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/u5116884/public_html/dashboard/inc/Database.php on line 784
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 787
+[24-Jan-2024 17:51:59 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 788
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x3c 0x3f in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '/tmp/phpkOqjfx' is not a valid JPEG file in /home/u5116884/public_html/dashboard/inc/Database.php on line 761
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  Division by zero in /home/u5116884/public_html/dashboard/inc/Database.php on line 781
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/u5116884/public_html/dashboard/inc/Database.php on line 784
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 785
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 787
+[24-Jan-2024 17:52:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/u5116884/public_html/dashboard/inc/Database.php on line 788

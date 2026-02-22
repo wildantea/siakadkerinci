@@ -1,0 +1,11 @@
+[04-Oct-2018 09:46:17 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/list_cuti_mahasiswa/list_cuti_mahasiswa_data.php on line 39
+[04-Oct-2018 09:46:17 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/list_cuti_mahasiswa/list_cuti_mahasiswa_data.php on line 43
+[04-Oct-2018 09:46:17 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[04-Oct-2018 09:46:46 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/list_cuti_mahasiswa/list_cuti_mahasiswa_data.php on line 39
+[04-Oct-2018 09:46:46 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/list_cuti_mahasiswa/list_cuti_mahasiswa_data.php on line 43
+[04-Oct-2018 09:46:46 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[04-Oct-2018 09:46:57 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/list_cuti_mahasiswa/list_cuti_mahasiswa_data.php on line 39
+[04-Oct-2018 09:46:57 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/list_cuti_mahasiswa/list_cuti_mahasiswa_data.php on line 43
+[04-Oct-2018 09:46:57 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[04-Oct-2018 10:34:54 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Oct-2018 07:44:16 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81

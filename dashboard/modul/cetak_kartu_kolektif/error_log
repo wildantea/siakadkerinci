@@ -1,0 +1,2 @@
+[12-Sep-2018 10:57:49 Asia/Jakarta] PHP Notice:  Undefined index: selector in /home/u5116884/public_html/dashboard/modul/cetak_kartu_kolektif/cetak_kartu_kolektif_uts.php on line 360
+[12-Sep-2018 10:57:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/cetak_kartu_kolektif/cetak_kartu_kolektif_uts.php on line 360

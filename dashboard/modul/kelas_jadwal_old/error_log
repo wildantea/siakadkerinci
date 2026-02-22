@@ -1,0 +1,253 @@
+[25-Oct-2018 09:04:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[25-Oct-2018 09:04:42 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[25-Oct-2018 09:04:42 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[16-Nov-2018 09:02:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[16-Nov-2018 09:02:51 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[16-Nov-2018 09:02:51 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[02-Dec-2018 16:39:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[02-Dec-2018 16:39:04 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[02-Dec-2018 16:39:04 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[02-Dec-2018 16:39:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[02-Dec-2018 16:39:18 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[02-Dec-2018 16:39:18 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[02-Dec-2018 16:39:32 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[02-Dec-2018 16:39:32 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[02-Dec-2018 16:39:32 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[06-Dec-2018 12:28:25 Asia/Jakarta] PHP Notice:  Undefined variable: selected_gedung_id in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/modal_setting_jadwal.php on line 89
+[06-Dec-2018 12:28:25 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/modal_setting_jadwal.php on line 89
+[19-Dec-2018 10:53:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[19-Dec-2018 10:53:43 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[19-Dec-2018 10:53:43 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[18-Jan-2019 05:32:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[18-Jan-2019 05:32:20 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[18-Jan-2019 05:32:20 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[18-Jan-2019 05:36:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[18-Jan-2019 05:36:20 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[18-Jan-2019 05:36:20 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[24-Jan-2019 09:17:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[24-Jan-2019 09:17:48 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[24-Jan-2019 09:17:48 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[25-Jan-2019 13:37:05 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 13:50:39 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 13:53:06 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 13:54:02 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[25-Jan-2019 16:16:26 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 21:20:28 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 21:21:03 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[25-Jan-2019 21:23:16 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:30:33 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:32:34 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:35:00 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:36:50 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:38:57 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:39:51 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 21:41:10 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[25-Jan-2019 21:42:34 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 367
+[25-Jan-2019 21:43:34 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 21:44:00 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[25-Jan-2019 21:45:03 Asia/Jakarta] PHP Notice:  Undefined index: hari in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 638
+[25-Jan-2019 21:45:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 638
+[25-Jan-2019 21:46:35 Asia/Jakarta] PHP Notice:  Undefined index: hari in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 638
+[25-Jan-2019 21:46:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 638
+[25-Jan-2019 21:47:59 Asia/Jakarta] PHP Notice:  Undefined index: hari in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 638
+[25-Jan-2019 21:47:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 638
+[25-Jan-2019 21:50:14 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 357
+[25-Jan-2019 22:11:39 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[25-Jan-2019 22:12:16 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[25-Jan-2019 22:13:00 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[25-Jan-2019 22:13:00 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 357
+[25-Jan-2019 22:19:46 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[26-Jan-2019 19:18:31 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[26-Jan-2019 19:19:17 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[26-Jan-2019 19:22:08 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 361
+[19-Jun-2019 18:04:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[19-Jun-2019 18:04:49 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[19-Jun-2019 18:04:49 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[27-Jun-2019 14:25:01 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 357
+[05-Jul-2019 15:28:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 121
+[05-Jul-2019 15:28:10 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[05-Jul-2019 15:28:10 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/exsport_excel.php on line 140
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 66
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 67
+[10-Jul-2019 11:29:17 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 69
+[10-Jul-2019 11:30:07 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[10-Jul-2019 11:32:10 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[10-Jul-2019 11:32:37 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[10-Jul-2019 11:49:27 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[15-Jul-2019 11:51:53 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[15-Jul-2019 15:49:00 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[15-Jul-2019 16:03:55 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[16-Jul-2019 15:26:15 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[16-Jul-2019 15:33:36 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[16-Jul-2019 15:41:14 Asia/Jakarta] PHP Notice:  Undefined variable: kode_kelas in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/kelas_jadwal_action.php on line 72
+[20-Jul-2019 08:51:37 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 57
+[20-Jul-2019 08:51:37 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 58
+[23-Jul-2019 22:45:11 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/kelas_jadwal/modal_setting_jadwal.php on line 64

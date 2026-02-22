@@ -1,0 +1,10 @@
+[04-Oct-2018 09:46:26 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/riwayat_cuti_mahasiswa_data.php on line 46
+[04-Oct-2018 09:46:26 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[04-Oct-2018 09:46:51 Asia/Jakarta] PHP Notice:  Undefined index: id_fak in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/riwayat_cuti_mahasiswa_data.php on line 46
+[04-Oct-2018 09:46:51 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Oct-2018 07:52:54 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[22-Nov-2018 09:03:37 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/cetak_riwayatcutimahasiswa.php on line 368
+[22-Nov-2018 09:03:37 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/cetak_riwayatcutimahasiswa.php on line 378
+[22-Nov-2018 09:03:37 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/cetak_riwayatcutimahasiswa.php on line 378
+[22-Nov-2018 09:03:37 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/cetak_riwayatcutimahasiswa.php on line 379
+[22-Nov-2018 09:03:37 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/riwayat_cuti_mahasiswa/cetak_riwayatcutimahasiswa.php on line 379

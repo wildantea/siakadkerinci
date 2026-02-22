@@ -1,0 +1,4 @@
+[04-Sep-2018 10:22:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[04-Sep-2018 10:22:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/laporan_pembayaran/laporan_pembayaran_data.php on line 110
+[07-Sep-2018 23:01:38 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[07-Sep-2018 23:01:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/laporan_pembayaran/laporan_pembayaran_data.php on line 110

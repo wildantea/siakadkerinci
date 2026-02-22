@@ -1,0 +1,60 @@
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 324
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[20-Jan-2022 10:37:48 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 324
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[12-Dec-2022 16:34:06 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 324
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:51:20 Asia/Jakarta] PHP Notice:  Trying to get property 'foto_user' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 493
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 324
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:53:59 Asia/Jakarta] PHP Notice:  Trying to get property 'foto_user' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 493
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 324
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:55:15 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 324
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[28-Nov-2023 11:58:47 Asia/Jakarta] PHP Notice:  Trying to get property 'foto_user' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 493
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 324
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[05-Dec-2023 16:21:44 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uas.php on line 394
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Undefined index: k in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 324
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Trying to get property 'jns_semester' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Undefined variable: kkk in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Trying to get property 'tahun' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 398
+[26-Dec-2023 18:32:56 Asia/Jakarta] PHP Notice:  Trying to get property 'foto_user' of non-object in /home/u5116884/public_html/dashboard/modul/cetak_kartu_permahasiswa/cetak_kartu_uts.php on line 493

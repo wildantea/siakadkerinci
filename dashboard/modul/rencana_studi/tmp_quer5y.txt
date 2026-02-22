@@ -1,0 +1,55 @@
+select mahasiswa.nim,nama,mulai_smt,(select min(disetujui) from krs_detail where nim=mahasiswa.nim and id_semester='20241') as disetujui,
+
+(select sks_diambil from akm where mhs_nim=mahasiswa.nim and sem_id='20241') as sks_diambil,
+#tagihan.sisa_tagihan,tagihan.nominal_akhir_tagihan, 
+
+(select sum(nominal_tagihan-potongan) from keu_tagihan_mahasiswa inner join keu_tagihan on keu_tagihan_mahasiswa.id_tagihan_prodi=keu_tagihan.id
+inner join keu_jenis_tagihan on keu_tagihan.kode_tagihan=keu_jenis_tagihan.kode_tagihan
+where keu_jenis_tagihan.syarat_krs='1' and keu_tagihan_mahasiswa.nim=mahasiswa.nim and keu_tagihan_mahasiswa.periode='20241') as total_akhir_tagihan,
+
+(select id_affirmasi from affirmasi_krs where nim=mahasiswa.nim and periode='20241' limit 1) as affirmasi
+ from mahasiswa 
+
+where mahasiswa.nim in(select nim from krs_detail where id_semester='20241') and nim='211023055'
+
+
+limit 10;
+
+
+select mahasiswa.nim,nama,mulai_smt,(select min(disetujui) from krs_detail where nim=mahasiswa.nim and id_semester='20241') as disetujui,
+
+(select sks_diambil from akm where mhs_nim=mahasiswa.nim and sem_id='20241') as sks_diambil,
+tagihan.sisa_tagihan,tagihan.nominal_akhir_tagihan, 
+
+(select sum(nominal_tagihan-potongan) from keu_tagihan_mahasiswa inner join keu_tagihan on keu_tagihan_mahasiswa.id_tagihan_prodi=keu_tagihan.id
+inner join keu_jenis_tagihan on keu_tagihan.kode_tagihan=keu_jenis_tagihan.kode_tagihan
+where keu_jenis_tagihan.syarat_krs='1' and keu_tagihan_mahasiswa.nim=mahasiswa.nim and keu_tagihan_mahasiswa.periode='20241') as total_akhir_tagihan,
+
+(select id_affirmasi from affirmasi_krs where nim=mahasiswa.nim and periode='20241' limit 1) as affirmasi
+ from mahasiswa 
+left join (
+select ktm.nim,keu_tagihan.nominal_tagihan,nominal_tagihan - ktm.potongan as nominal_akhir_tagihan,nominal_bayar,
+(keu_tagihan.nominal_tagihan - potongan) - sum(kbm.nominal_bayar) as sisa_tagihan,
+sum(kbm.nominal_bayar),potongan,syarat_krs,periode FROM keu_tagihan_mahasiswa ktm
+          JOIN keu_bayar_mahasiswa kbm ON ktm.id=kbm.id_keu_tagihan_mhs
+          JOIN keu_tagihan ON ktm.id_tagihan_prodi=keu_tagihan.id
+JOIN keu_jenis_tagihan kjt ON keu_tagihan.kode_tagihan=kjt.kode_tagihan
+group by ktm.id
+having 
+ kjt.syarat_krs='Y'
+) tagihan on tagihan.nim=mahasiswa.nim and tagihan.periode='20241'
+
+where mahasiswa.nim in(select nim from krs_detail where id_semester='20241')
+
+
+limit 10;
+
+(select sum(nominal_tagihan-potongan) from keu_tagihan_mahasiswa inner join keu_tagihan using(id_tagihan_prodi)
+inner join keu_jenis_tagihan using(kode_tagihan)
+where keu_jenis_tagihan.syarat_krs='1' and keu_tagihan_mahasiswa.nim=tb_master_mahasiswa.nim and keu_tagihan_mahasiswa.periode='20241') as total_akhir_tagihan,
+(select sum(IFNULL(total_cicilan, 0)) from keu_tagihan_mahasiswa
+inner join keu_tagihan using(id_tagihan_prodi)
+inner join keu_jenis_tagihan using(kode_tagihan)
+left join view_cicilan on keu_tagihan_mahasiswa.id_keu_tagihan_mhs=view_cicilan.id_tagihan_mhs
+where keu_jenis_tagihan.syarat_krs='1' and keu_tagihan_mahasiswa.nim=tb_master_mahasiswa.nim and keu_tagihan_mahasiswa.periode='20241') as total_dibayar,
+

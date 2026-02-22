@@ -1,0 +1,64 @@
+[20-Sep-2018 22:56:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 150
+[20-Sep-2018 22:56:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 150
+[20-Sep-2018 22:57:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 150
+[20-Sep-2018 22:58:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 150
+[21-Sep-2018 06:01:21 Asia/Bangkok] PHP Notice:  Undefined variable: q in /home/u5116884/public_html/dashboard/inc/function.php on line 699
+[21-Sep-2018 06:01:40 Asia/Bangkok] PHP Notice:  Undefined variable: kode_bayar in /home/u5116884/public_html/dashboard/inc/function.php on line 714
+[21-Sep-2018 06:01:40 Asia/Bangkok] PHP Notice:  Undefined variable: nama_mhs in /home/u5116884/public_html/dashboard/inc/function.php on line 715
+[21-Sep-2018 06:01:40 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 716
+[21-Sep-2018 06:01:40 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 717
+[21-Sep-2018 06:01:40 Asia/Bangkok] PHP Notice:  Undefined variable: nim in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 159
+[21-Sep-2018 06:04:25 Asia/Bangkok] PHP Notice:  Undefined variable: kode_bayar in /home/u5116884/public_html/dashboard/inc/function.php on line 714
+[21-Sep-2018 06:04:25 Asia/Bangkok] PHP Notice:  Undefined variable: nama_mhs in /home/u5116884/public_html/dashboard/inc/function.php on line 715
+[21-Sep-2018 06:04:25 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 716
+[21-Sep-2018 06:04:25 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 717
+[21-Sep-2018 06:04:25 Asia/Bangkok] PHP Notice:  Undefined variable: nim in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 159
+[21-Sep-2018 06:05:38 Asia/Bangkok] PHP Notice:  Undefined variable: kode_bayar in /home/u5116884/public_html/dashboard/inc/function.php on line 714
+[21-Sep-2018 06:05:38 Asia/Bangkok] PHP Notice:  Undefined variable: nama_mhs in /home/u5116884/public_html/dashboard/inc/function.php on line 715
+[21-Sep-2018 06:05:38 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 716
+[21-Sep-2018 06:05:38 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 717
+[21-Sep-2018 06:05:38 Asia/Bangkok] PHP Notice:  Undefined variable: nim in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 159
+[21-Sep-2018 06:06:07 Asia/Bangkok] PHP Notice:  Undefined variable: kode_bayar in /home/u5116884/public_html/dashboard/inc/function.php on line 719
+[21-Sep-2018 06:06:07 Asia/Bangkok] PHP Notice:  Undefined variable: nama_mhs in /home/u5116884/public_html/dashboard/inc/function.php on line 720
+[21-Sep-2018 06:06:07 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 721
+[21-Sep-2018 06:06:07 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 722
+[21-Sep-2018 06:06:07 Asia/Bangkok] PHP Notice:  Undefined variable: nim in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 159
+[21-Sep-2018 06:20:42 Asia/Bangkok] PHP Notice:  Undefined variable: kode_bayar in /home/u5116884/public_html/dashboard/inc/function.php on line 716
+[21-Sep-2018 06:21:28 Asia/Bangkok] PHP Notice:  Undefined variable: nim in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 159
+[23-Sep-2018 00:35:27 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 764
+[23-Sep-2018 00:35:27 Asia/Bangkok] PHP Notice:  Undefined variable: no_briva in /home/u5116884/public_html/dashboard/inc/function.php on line 769
+[23-Sep-2018 00:35:27 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 771
+[22-Sep-2018 22:27:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 208
+[22-Sep-2018 22:27:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 208
+[23-Sep-2018 05:30:07 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 764
+[23-Sep-2018 05:30:07 Asia/Bangkok] PHP Notice:  Undefined variable: no_briva in /home/u5116884/public_html/dashboard/inc/function.php on line 769
+[23-Sep-2018 05:30:07 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 771
+[23-Sep-2018 05:32:34 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 764
+[23-Sep-2018 05:32:34 Asia/Bangkok] PHP Notice:  Undefined variable: no_briva in /home/u5116884/public_html/dashboard/inc/function.php on line 769
+[23-Sep-2018 05:32:34 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 771
+[23-Sep-2018 05:32:44 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 764
+[23-Sep-2018 05:32:44 Asia/Bangkok] PHP Notice:  Undefined variable: no_briva in /home/u5116884/public_html/dashboard/inc/function.php on line 769
+[23-Sep-2018 05:32:44 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 771
+[23-Sep-2018 05:33:12 Asia/Bangkok] PHP Notice:  Undefined variable: ket in /home/u5116884/public_html/dashboard/inc/function.php on line 764
+[23-Sep-2018 05:33:12 Asia/Bangkok] PHP Notice:  Undefined variable: no_briva in /home/u5116884/public_html/dashboard/inc/function.php on line 769
+[23-Sep-2018 05:33:12 Asia/Bangkok] PHP Notice:  Undefined variable: jumlah in /home/u5116884/public_html/dashboard/inc/function.php on line 771
+[23-Sep-2018 05:38:59 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$id_tagihan in /home/u5116884/public_html/dashboard/inc/function.php on line 757
+[23-Sep-2018 07:10:30 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$responseDescription in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 213
+[23-Sep-2018 07:11:23 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$responseDescription in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 214
+[23-Sep-2018 07:11:31 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$responseDescription in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 214
+[23-Sep-2018 07:13:46 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$responseDescription in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 215
+[23-Sep-2018 07:36:17 Asia/Bangkok] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 216
+[23-Sep-2018 07:36:36 Asia/Bangkok] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 216
+[23-Sep-2018 07:36:58 Asia/Bangkok] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 216
+[22-Nov-2018 09:06:36 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 218
+[22-Nov-2018 09:06:36 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[22-Nov-2018 09:06:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_data.php on line 79
+[25-Jan-2019 13:55:07 Asia/Bangkok] PHP Notice:  Undefined variable: briva_conf in /home/u5116884/public_html/dashboard/inc/function.php on line 715
+[25-Jan-2019 13:55:07 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 715
+[25-Jan-2019 13:55:07 Asia/Bangkok] PHP Notice:  Undefined variable: briva_conf in /home/u5116884/public_html/dashboard/inc/function.php on line 716
+[25-Jan-2019 13:55:07 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 716
+[25-Jan-2019 14:07:03 Asia/Jakarta] PHP Notice:  Undefined variable: briva_conf in /home/u5116884/public_html/dashboard/inc/function.php on line 810
+[25-Jan-2019 14:07:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 810
+[25-Jan-2019 14:07:03 Asia/Jakarta] PHP Notice:  Undefined variable: briva_conf in /home/u5116884/public_html/dashboard/inc/function.php on line 811
+[25-Jan-2019 14:07:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 811
+[25-Jan-2019 14:07:32 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/setting_tagihan_mahasiswa/setting_tagihan_mahasiswa_action.php on line 169

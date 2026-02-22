@@ -1,0 +1,717 @@
+[24-Mar-2022 03:47:40 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 03:47:52 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: k in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[24-Mar-2022 10:48:39 Asia/Jakarta] PHP Notice:  Trying to get property 'kelas_id' of non-object in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 94
+[26-Apr-2022 12:58:01 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[26-Apr-2022 12:58:01 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[09-Jun-2022 11:41:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[13-Jun-2022 11:43:04 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[13-Jun-2022 11:43:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[13-Jun-2022 11:43:10 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[13-Jun-2022 11:47:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Jun-2022 07:43:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Jun-2022 07:44:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Jun-2022 07:44:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Jun-2022 07:44:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Jun-2022 07:44:11 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[16-Jun-2022 05:43:33 Asia/Jakarta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 68
+[15-Jun-2022 22:45:59 UTC] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 68
+[16-Jun-2022 11:28:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[16-Jun-2022 11:28:07 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[17-Jun-2022 10:22:12 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[29-Jun-2022 13:39:41 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[29-Jun-2022 13:39:41 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[29-Jun-2022 13:39:41 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[27-Jul-2022 14:20:37 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[27-Jul-2022 14:20:37 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[27-Jul-2022 14:20:37 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[28-Jul-2022 11:47:32 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[28-Jul-2022 11:47:32 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[28-Jul-2022 11:47:32 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[28-Jul-2022 11:47:41 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[28-Jul-2022 11:47:41 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[28-Jul-2022 11:47:41 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[28-Jul-2022 11:47:54 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[28-Jul-2022 11:47:54 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[28-Jul-2022 11:47:54 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[28-Jul-2022 11:48:12 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[28-Jul-2022 11:48:12 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[28-Jul-2022 11:48:12 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[28-Jul-2022 11:49:59 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[28-Jul-2022 11:49:59 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[28-Jul-2022 11:49:59 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[05-Aug-2022 19:34:41 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[05-Aug-2022 19:34:41 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[05-Aug-2022 19:34:41 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[05-Aug-2022 19:34:44 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[05-Aug-2022 19:34:44 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[05-Aug-2022 19:34:44 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[06-Aug-2022 15:04:44 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[06-Aug-2022 15:04:44 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[06-Aug-2022 15:04:44 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[06-Aug-2022 16:15:36 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[06-Aug-2022 16:15:36 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[06-Aug-2022 16:15:36 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[06-Aug-2022 16:15:36 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[06-Aug-2022 16:15:36 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[06-Aug-2022 16:15:36 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Aug-2022 14:10:17 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[08-Aug-2022 14:10:17 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[08-Aug-2022 14:10:17 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Aug-2022 14:13:34 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[08-Aug-2022 14:13:34 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[08-Aug-2022 14:13:34 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Aug-2022 14:29:31 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[08-Aug-2022 14:29:31 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[08-Aug-2022 14:29:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Aug-2022 14:30:33 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 261
+[08-Aug-2022 14:30:33 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 262
+[08-Aug-2022 14:30:33 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[11-Sep-2022 22:34:42 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[15-Sep-2022 20:25:52 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Sep-2022 20:25:54 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Sep-2022 20:25:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Sep-2022 20:26:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Sep-2022 20:26:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Sep-2022 20:26:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Sep-2022 20:26:04 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[19-Sep-2022 05:30:18 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Sep-2022 05:30:18 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Sep-2022 05:30:18 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Sep-2022 05:30:19 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Sep-2022 05:30:19 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Sep-2022 05:30:19 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Sep-2022 05:30:19 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Sep-2022 05:30:19 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Sep-2022 05:30:19 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[08-Nov-2022 11:08:10 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[08-Nov-2022 11:08:15 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[24-Dec-2022 21:50:13 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[24-Dec-2022 21:50:19 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 29
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 196
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 203
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 300
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 303
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 303
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 49
+[05-Jan-2023 13:34:31 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 345
+[06-Jan-2023 08:41:42 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[08-Jan-2023 13:55:41 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[08-Jan-2023 13:55:41 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[08-Jan-2023 13:55:42 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Jan-2023 13:55:43 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[08-Jan-2023 13:55:43 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[08-Jan-2023 13:55:44 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Jan-2023 13:55:44 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[08-Jan-2023 13:55:44 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[08-Jan-2023 13:55:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[08-Jan-2023 13:55:45 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[08-Jan-2023 13:55:45 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[08-Jan-2023 13:55:46 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[09-Jan-2023 14:06:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:06:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:06:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:07:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:07:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:07:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:08:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[09-Jan-2023 14:08:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 29
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 196
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 203
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 223
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 227
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 228
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 300
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 303
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 303
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 49
+[12-Jan-2023 12:42:50 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 345
+[13-Jan-2023 10:18:53 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 10:18:53 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 10:18:54 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 10:18:54 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 10:18:54 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 10:18:55 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 10:18:55 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 10:18:55 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 10:18:56 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 10:18:56 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 10:18:56 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 10:18:57 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 10:18:57 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 10:18:57 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 10:18:58 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 10:18:58 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 10:18:59 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 13:25:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:26:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:26:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:26:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:26:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:26:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:26:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:27:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:27:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:27:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:27:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:27:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php(4): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:28:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php(4): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 13:28:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:38
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php(4): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 38
+[13-Jan-2023 22:05:48 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 22:05:48 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 22:05:49 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 22:05:50 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 22:05:50 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 22:05:51 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[13-Jan-2023 22:05:51 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[13-Jan-2023 22:05:51 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[13-Jan-2023 22:05:52 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[17-Jan-2023 09:41:51 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:41:57 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:45:38 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:45:42 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:45:47 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:46:59 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:47:03 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:47:52 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:47:59 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2023 09:48:05 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[28-Jan-2023 09:50:18 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[28-Jan-2023 09:50:18 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[28-Jan-2023 09:50:18 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[28-Jan-2023 09:50:22 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[28-Jan-2023 09:50:22 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[28-Jan-2023 09:50:22 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[28-Jan-2023 09:50:32 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 341
+[28-Jan-2023 09:50:32 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 342
+[28-Jan-2023 09:50:32 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[07-Feb-2023 08:22:08 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[07-Feb-2023 08:58:23 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[07-Feb-2023 08:59:05 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[15-Feb-2023 11:17:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[15-Feb-2023 11:18:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[02-Mar-2023 12:22:10 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[02-Mar-2023 12:22:14 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[13-Jun-2023 15:40:47 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[20-Jun-2023 08:31:56 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[20-Jun-2023 08:31:56 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[20-Jun-2023 08:31:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[20-Jun-2023 08:31:58 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[20-Jun-2023 08:31:58 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[20-Jun-2023 08:31:59 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[20-Jun-2023 08:31:59 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[20-Jun-2023 08:31:59 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[20-Jun-2023 08:32:00 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[20-Jun-2023 19:41:21 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[20-Jun-2023 19:41:21 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[20-Jun-2023 19:41:21 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[20-Jun-2023 19:41:22 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[20-Jun-2023 19:41:22 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[20-Jun-2023 19:41:22 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[20-Jun-2023 19:41:22 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[20-Jun-2023 19:41:22 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[20-Jun-2023 19:41:22 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[20-Jun-2023 19:41:23 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[20-Jun-2023 19:41:23 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[20-Jun-2023 19:41:23 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[28-Jun-2023 20:18:36 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[28-Jun-2023 20:18:36 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[28-Jun-2023 20:18:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[30-Jun-2023 21:13:00 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[30-Jun-2023 21:13:00 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[30-Jun-2023 21:13:01 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[30-Jun-2023 21:13:02 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[30-Jun-2023 21:13:02 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[30-Jun-2023 21:13:03 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[30-Jun-2023 21:13:03 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[30-Jun-2023 21:13:03 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[30-Jun-2023 21:13:04 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 77
+[07-Jul-2023 09:20:45 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[07-Jul-2023 09:20:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 75
+[07-Jul-2023 09:21:38 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[07-Jul-2023 09:21:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 75
+[11-Jul-2023 16:00:16 Asia/Jakarta] PHP Notice:  Trying to get property 'jml' of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[11-Jul-2023 16:00:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 75
+[17-Jul-2023 10:39:08 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php on line 32
+[18-Aug-2023 15:03:45 Asia/Jakarta] PHP Notice:  Undefined index: group_level in /home/u5116884/public_html/dashboard/inc/function.php on line 358
+[18-Aug-2023 15:03:45 Asia/Jakarta] PHP Notice:  Trying to get property 'akses_prodi' of non-object in /home/u5116884/public_html/dashboard/inc/function.php on line 359
+[18-Aug-2023 15:03:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php on line 79
+[08-Jan-2024 15:37:17 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[08-Jan-2024 15:37:17 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[08-Jan-2024 15:37:17 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[11-Jan-2024 09:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/get_nilai_huruf.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[12-Jan-2024 10:59:39 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[12-Jan-2024 11:00:13 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[14-Jan-2024 13:38:19 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:49 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[14-Jan-2024 22:37:51 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:51 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:51 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[14-Jan-2024 22:37:51 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:51 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:51 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[14-Jan-2024 22:37:52 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[14-Jan-2024 22:37:52 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[14-Jan-2024 22:37:52 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[15-Jan-2024 09:14:58 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[15-Jan-2024 09:14:58 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[15-Jan-2024 09:14:58 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[15-Jan-2024 15:38:01 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php on line 29
+[17-Jan-2024 14:15:47 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:47 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:15:51 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:51 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:15:53 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:53 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:15:55 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:55 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:15:56 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:56 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:15:57 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:57 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:15:58 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:15:58 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:16:00 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:16:00 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:16:03 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:16:03 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:10 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:10 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:15 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:15 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:20 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:20 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:27 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:27 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:35 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:35 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:42 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:42 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:19:51 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:19:51 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[17-Jan-2024 14:20:11 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[17-Jan-2024 14:20:11 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 11:02:02 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 11:02:02 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:34 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:34 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:34 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:35 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:36 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:36 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:36 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:37 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:37 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:37 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:38 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:38 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:38 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:40 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:40 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:40 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[19-Jan-2024 15:46:41 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[19-Jan-2024 15:46:41 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[19-Jan-2024 15:46:41 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[22-Jan-2024 17:18:32 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[22-Jan-2024 17:18:32 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[22-Jan-2024 17:18:32 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[22-Jan-2024 17:18:32 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[22-Jan-2024 17:18:32 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[22-Jan-2024 17:18:32 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[22-Jan-2024 17:18:33 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[22-Jan-2024 17:18:33 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[22-Jan-2024 17:18:33 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[24-Jan-2024 12:20:34 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[24-Jan-2024 12:20:34 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[24-Jan-2024 12:20:34 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[24-Jan-2024 12:20:35 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[24-Jan-2024 12:20:35 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[24-Jan-2024 12:20:35 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[24-Jan-2024 12:20:37 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[24-Jan-2024 12:20:37 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[24-Jan-2024 12:20:37 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[24-Jan-2024 12:20:38 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[24-Jan-2024 12:20:38 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[24-Jan-2024 12:20:38 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[24-Jan-2024 12:36:12 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[24-Jan-2024 12:36:12 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[24-Jan-2024 12:36:12 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[24-Jan-2024 12:36:13 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[24-Jan-2024 12:36:13 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[24-Jan-2024 12:36:13 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[26-Jan-2024 00:16:01 Asia/Jakarta] PHP Notice:  Undefined index: id_kelas in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 3
+[26-Jan-2024 00:16:02 Asia/Jakarta] PHP Notice:  Undefined index: jur in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 4
+[26-Jan-2024 00:16:02 Asia/Jakarta] PHP Notice:  Undefined index: sem in /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php on line 5
+[29-Jan-2024 10:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/nilai_data.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 10:27:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 10:28:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 11:57:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 11:57:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 11:58:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 11:58:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:52:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:52:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:52:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:52:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:53:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:53:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 12:53:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:12:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:12:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:13:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:19:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:20:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/nilai_dosen_data.php(3): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:20:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:20:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:20:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:20:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 13:21:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:13:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/nilai_action.php(4): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39
+[29-Jan-2024 15:31:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u5116884/public_html/dashboard/inc/Database.php:39
+Stack trace:
+#0 /home/u5116884/public_html/dashboard/inc/function.php(2): Database->query('SELECT i.`isi` ...')
+#1 /home/u5116884/public_html/dashboard/inc/config.php(50): require_once('/home/u5116884/...')
+#2 /home/u5116884/public_html/dashboard/modul/nilai/cetak_nilai.php(2): include('/home/u5116884/...')
+#3 {main}
+  thrown in /home/u5116884/public_html/dashboard/inc/Database.php on line 39

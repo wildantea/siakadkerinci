@@ -1,0 +1,28 @@
+[05-Sep-2018 07:37:14 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:37:14 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:37:29 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:37:29 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:38:38 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:38:38 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:39:01 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:39:01 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:39:05 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:39:05 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:39:28 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:39:28 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:40:19 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:40:19 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:41:09 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:41:09 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:41:59 Asia/Jakarta] PHP Notice:  Undefined index: id_jur in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/bimbingan_tugas_akhir_data.php on line 46
+[05-Sep-2018 07:41:59 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:44:37 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:46:56 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:47:52 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:56:04 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[05-Sep-2018 07:57:15 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/inc/Dtable.php on line 81
+[10-Sep-2018 14:01:11 Asia/Jakarta] PHP Notice:  Undefined variable: i in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/cetak_bimbingantugasakhir.php on line 358
+[10-Sep-2018 14:01:11 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/cetak_bimbingantugasakhir.php on line 367
+[10-Sep-2018 14:01:11 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/cetak_bimbingantugasakhir.php on line 367
+[10-Sep-2018 14:01:11 Asia/Jakarta] PHP Notice:  Undefined variable: kk in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/cetak_bimbingantugasakhir.php on line 368
+[10-Sep-2018 14:01:11 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/u5116884/public_html/dashboard/modul/bimbingan_tugas_akhir/cetak_bimbingantugasakhir.php on line 368
