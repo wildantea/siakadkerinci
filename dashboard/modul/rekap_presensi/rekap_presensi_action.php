@@ -93,7 +93,7 @@ switch ($_GET["act"]) {
             INNER JOIN kelas k ON t.kelas_id = k.kelas_id
             INNER JOIN matkul m ON k.id_matkul = m.id_matkul
             INNER JOIN kurikulum ku ON m.kur_id = ku.kur_id
-            INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id t.id_pertemuan in('25069','31277')
+            INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id and t.id_pertemuan in('25069','31277')
             $where_clause";
 
     $records = $db->query($sql);
