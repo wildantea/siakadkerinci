@@ -111,16 +111,29 @@ switch ($_GET["act"]) {
 
         $is_jumat = (strtolower($hari) == 'jumat');
 
+        // Mapping dari waktu normal (hari biasa) ke waktu Puasa (1 SKS = 40 menit)
+        // Istirahat dihapus, waktu kuliah jalan terus (continuous)
+        // Senin-Kamis normal: Jam I-IX start = 480,530,580,630,680, [Istirahat 780], 830,880,930
+        // Senin-Kamis normal: Jam I-IX end   = 530,580,630,680,730, [Istirahat 830], 880,930,980
+        // Jumat normal:       Jam I-IX start = 480,530,580,630,680, [Istirahat 810+840], 860,910,960
+        // Jumat normal:       Jam I-IX end   = 530,580,630,680,730, [Istirahat 860+900], 910,960,1010
+
+        // Puasa continuous tanpa istirahat: 480,520,560,600,640,680,720,760,800 (start)
+        //                                   520,560,600,640,680,720,760,800,840 (end)
         if ($is_start) {
           $normal = $is_jumat ?
-            [480, 530, 580, 630, 680, 810, 860, 910, 960] :
+            [480, 530, 580, 630, 680, 810, 840, 860, 910, 960] :
             [480, 530, 580, 630, 680, 780, 830, 880, 930];
-          $puasa = [480, 520, 560, 600, 640, 680, 760, 800, 840];
+          $puasa = $is_jumat ?
+            [480, 520, 560, 600, 640, 680, 720, 760, 800, 840] :
+            [480, 520, 560, 600, 640, 680, 720, 760, 800];
         } else {
           $normal = $is_jumat ?
-            [530, 580, 630, 680, 730, 860, 910, 960, 1010] :
+            [530, 580, 630, 680, 730, 840, 900, 910, 960, 1010] :
             [530, 580, 630, 680, 730, 830, 880, 930, 980];
-          $puasa = [520, 560, 600, 640, 680, 720, 800, 840, 880];
+          $puasa = $is_jumat ?
+            [520, 560, 600, 640, 680, 720, 760, 800, 840, 880] :
+            [520, 560, 600, 640, 680, 720, 760, 800, 840];
         }
 
         $min_diff = 9999;
