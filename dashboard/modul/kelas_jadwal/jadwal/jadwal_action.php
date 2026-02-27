@@ -37,10 +37,13 @@ switch ($_GET["act"]) {
 // AMAN: jadwal_kuliah — UPDATE jika sudah ada, INSERT jika belum
 // (jadwal_id tidak berubah → referensi di tb_data_kelas_pertemuan tetap aman)
 //========================================================
-    $existing_jadwal = $db2->fetchCustomSingle(
+    $existing_jadwal = $db->fetch_custom_single(
       "SELECT jadwal_id FROM jadwal_kuliah WHERE kelas_id=?",
       ['kelas_id' => $_POST['kelas_id']]
     );
+
+    var_dump($existing_jadwal);
+    die;
 
     $data_jadwal = [
       'kelas_id' => $_POST['kelas_id'],
