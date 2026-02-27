@@ -118,9 +118,9 @@ switch ($_GET["act"]) {
 
         // Puasa: slot 40 menit. 
         // Senin-Kamis continuous
-        // Jumat ada istirahat 12:00-12:40 (720-760)
+        // Jumat ada istirahat 12:00-13:20 (720-800)
         $puasa_start = $is_jumat
-          ? [480, 520, 560, 600, 640, 680, 760, 800, 840]
+          ? [480, 520, 560, 600, 640, 680, 800, 840, 880]
           : [480, 520, 560, 600, 640, 680, 720, 760, 800];
 
         $min_diff = 9999;
@@ -169,10 +169,10 @@ switch ($_GET["act"]) {
       // 4. Hitung jam selesai Puasa: mulai + (SKS × 40 menit)
       $puasa_selesai_menit = $puasa_mulai_menit + ($jumlah_sks * 40);
 
-      // Tambahkan offset istirahat KHUSUS hari Jumat bulan Puasa (istirahat puasa: 12:00-12:40 / 720-760)
+      // Tambahkan offset istirahat KHUSUS hari Jumat bulan Puasa (istirahat puasa: 12:00-13:20 / 720-800)
       if (strtolower($r->hari) == 'jumat') {
         if ($puasa_mulai_menit < 720 && $puasa_selesai_menit > 720) {
-          $puasa_selesai_menit += 40;
+          $puasa_selesai_menit += 80;
         }
       }
 
