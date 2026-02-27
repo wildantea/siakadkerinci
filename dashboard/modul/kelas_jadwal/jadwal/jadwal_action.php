@@ -42,8 +42,6 @@ switch ($_GET["act"]) {
       ['kelas_id' => $_POST['kelas_id']]
     );
 
-    var_dump($existing_jadwal);
-    die;
 
     $data_jadwal = [
       'kelas_id' => $_POST['kelas_id'],
@@ -60,6 +58,8 @@ switch ($_GET["act"]) {
     } else {
       $db->insert('jadwal_kuliah', $data_jadwal);
     }
+
+    exit();
 
     //========================================================
 // AMAN: dosen_kelas — sync tanpa hapus semua
