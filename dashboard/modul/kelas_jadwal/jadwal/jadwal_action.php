@@ -59,7 +59,6 @@ switch ($_GET["act"]) {
       $db->insert('jadwal_kuliah', $data_jadwal);
     }
 
-    exit();
 
     //========================================================
 // AMAN: dosen_kelas — sync tanpa hapus semua
@@ -67,7 +66,7 @@ switch ($_GET["act"]) {
 //========================================================
     $nip_baru = $_POST['pengajar'] ?? [];
     $ke = 1;
-    $sks_ajar = count($nip_baru) > 0 ? $kelas_data->sks / count($nip_baru) : $kelas_data->sks;
+    $sks_ajar = count($nip_baru) > 0 ? round($kelas_data->sks / count($nip_baru), 2) : $kelas_data->sks;
 
     // Ambil dosen lama
     $existing_dosen = $db->query(
@@ -79,6 +78,7 @@ switch ($_GET["act"]) {
       $nip_lama[] = $ed->id_dosen;
     }
 
+
     // Hapus dosen yang tidak ada di form
     $nip_dihapus = array_diff($nip_lama, $nip_baru);
     foreach ($nip_dihapus as $nip_del) {
@@ -87,6 +87,8 @@ switch ($_GET["act"]) {
         ['id_kelas' => $_POST['kelas_id'], 'id_dosen' => $nip_del]
       );
     }
+
+
 
     // Insert atau update dosen dari form
     foreach ($nip_baru as $nip_dosen) {
