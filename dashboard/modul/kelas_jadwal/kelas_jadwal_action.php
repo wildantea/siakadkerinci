@@ -604,6 +604,10 @@ where kode_mk=? and kurikulum.kode_jur=?", array(
       $data_jadwal['id_hari'] = $array_hari[$_POST['hari']];
     }
 
+    dump($data_jadwal);
+
+    exit();
+
     if ($existing_jadwal) {
       // UPDATE: jadwal_id tetap sama, referensi di tb_data_kelas_pertemuan aman
       unset($data_jadwal['kelas_id']); // jangan update kolom kelas_id
