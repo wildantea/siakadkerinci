@@ -84,80 +84,39 @@ switch ($_GET["act"]) {
       $where_clause .= " AND vj.hari = '$hari_filter' ";
     }
 
-    $sql = "SELECT t.id_pertemuan, t.jam_mulai, t.jam_selesai, vj.hari 
+    $sql = "SELECT t.id_pertemuan, vj.jam_mulai AS jam_mulai_asli, vj.hari, vnk.sks
             FROM tb_data_kelas_pertemuan t
             INNER JOIN kelas k ON t.kelas_id = k.kelas_id
             INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id
             INNER JOIN view_nama_kelas vnk ON t.kelas_id = vnk.kelas_id
             $where_clause";
 
-    dump($sql);
-    exit();
     $records = $db->query($sql);
 
-    // Fungsi: snap jam_mulai ke slot Puasa terdekat (only for start time)
-    if (!function_exists('snap_to_puasa_start')) {
-      function snap_to_puasa_start($time_str, $hari)
-      {
-        if (!$time_str)
-          return $time_str;
-        $parts = explode(':', $time_str);
-        if (count($parts) < 2)
-          return $time_str;
-        $minutes = (int) $parts[0] * 60 + (int) $parts[1];
-
-        $is_jumat = (strtolower($hari) == 'jumat');
-
-        // Waktu mulai normal jam ke I-IX
-        $normal_start = $is_jumat
-          ? [480, 530, 580, 630, 680, 810, 860, 910, 960]
-          : [480, 530, 580, 630, 680, 780, 830, 880, 930];
-
-        // Puasa: slot 40 menit. 
-        // Senin-Kamis continuous
-        // Jumat ada istirahat 12:00-13:20 (720-800)
-        $puasa_start = $is_jumat
-          ? [480, 520, 560, 600, 640, 680, 800, 840, 880]
-          : [480, 520, 560, 600, 640, 680, 720, 760, 800];
-
-        $min_diff = 9999;
-        $closest_idx = 0;
-        foreach ($normal_start as $idx => $norm_min) {
-          $diff = abs($minutes - $norm_min);
-          if ($diff < $min_diff) {
-            $min_diff = $diff;
-            $closest_idx = $idx;
-          }
-        }
-
-        return $puasa_start[$closest_idx]; // kembalikan dalam menit
-      }
-    }
-
     foreach ($records as $r) {
-      // 1. Ambil SKS langsung dari view_nama_kelas
+      // 1. Jam mulai = dari jadwal asli (vj.jam_mulai)
+      $parts = explode(':', $r->jam_mulai_asli);
+      $mulai_menit = (int) $parts[0] * 60 + (int) $parts[1];
+
+      // 2. Hitung SKS (dari view_nama_kelas)
       $jumlah_sks = (int) $r->sks;
       if ($jumlah_sks < 1)
         $jumlah_sks = 1;
 
-      $is_jumat = (strtolower($r->hari) == 'jumat');
+      // 3. Jam selesai = jam_mulai + (sks × 40 menit)
+      $selesai_menit = $mulai_menit + ($jumlah_sks * 40);
 
-      // 2. Snap jam mulai ke slot Puasa terdekat
-      $puasa_mulai_menit = snap_to_puasa_start($r->jam_mulai, $r->hari);
-
-      // 3. Hitung jam selesai Puasa: mulai + (SKS × 40 menit)
-      $puasa_selesai_menit = $puasa_mulai_menit + ($jumlah_sks * 40);
-
-      // Tambahkan offset istirahat KHUSUS hari Jumat bulan Puasa (istirahat puasa: 12:00-13:20 / 720-800)
-      if ($is_jumat) {
-        if ($puasa_mulai_menit < 720 && $puasa_selesai_menit > 720) {
-          $puasa_selesai_menit += 80;
+      // 4. Khusus Jumat: ada istirahat 12:00-12:40 (720-760 menit, offset 40 menit)
+      //    Jika kelas melewati 12:00, geser jam selesai +40 menit
+      if (strtolower($r->hari) == 'jumat') {
+        if ($mulai_menit < 720 && $selesai_menit > 720) {
+          $selesai_menit += 40;
         }
       }
 
-      // 4. Format ke HH:MM:SS
-      $p_mulai = sprintf("%02d:%02d:00", floor($puasa_mulai_menit / 60), $puasa_mulai_menit % 60);
-      $p_selesai = sprintf("%02d:%02d:00", floor($puasa_selesai_menit / 60), $puasa_selesai_menit % 60);
+      // 5. Format ke HH:MM:SS
+      $p_mulai = sprintf("%02d:%02d:00", floor($mulai_menit / 60), $mulai_menit % 60);
+      $p_selesai = sprintf("%02d:%02d:00", floor($selesai_menit / 60), $selesai_menit % 60);
 
       $db->update(
         "tb_data_kelas_pertemuan",
