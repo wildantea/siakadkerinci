@@ -109,10 +109,9 @@ switch ($_GET["act"]) {
       $selesai_asli_menit = (int) $parts_selesai[0] * 60 + (int) $parts_selesai[1];
 
       // 1. Jam mulai puasa:
-      //    - Jika back-to-back dengan kelas sebelumnya di ruangan+hari yang sama
-      //      (mulai_asli <= selesai_asli kelas sebelumnya) → chain dari selesai puasa sebelumnya
-      //    - Jika tidak → pakai jam_mulai asli
-      if (isset($prev_selesai_puasa[$key]) && $mulai_asli_menit <= $prev_selesai_puasa[$key]['selesai_asli']) {
+      //    - Jika ada kelas sebelumnya di ruangan+hari yang sama → selalu chain (gap dihilangkan)
+      //    - Jika tidak ada → pakai jam_mulai asli
+      if (isset($prev_selesai_puasa[$key])) {
         $mulai_menit = $prev_selesai_puasa[$key]['selesai_puasa'];
       } else {
         $mulai_menit = $mulai_asli_menit;
