@@ -69,7 +69,7 @@ $datatable2->setDebug(1);
 $tanggal_absen = [];
 $tanggal_keluar = [];
 $tanggal_pertemuan = [];
-
+$jam_mulai_pertemuan = [];
 for ($i = 1; $i <= 16; $i++) {
 
     $tanggal_absen[] = "(
@@ -89,11 +89,21 @@ for ($i = 1; $i <= 16; $i++) {
   FROM tb_data_kelas_pertemuan t
   WHERE t.kelas_id = vnk.kelas_id AND t.pertemuan = '$i'
 ) AS tanggal_pertemuan_$i";
+
+    $jam_mulai_pertemuan[] = "(
+  SELECT jam_mulai
+  FROM tb_data_kelas_pertemuan t
+  WHERE t.kelas_id = vnk.kelas_id AND t.pertemuan = '$i'
+) AS jam_mulai_pertemuan_$i";
+
+
 }
+
 
 $q_absen = implode(", ", $tanggal_absen);
 $q_keluar = implode(", ", $tanggal_keluar);
 $q_tgl = implode(", ", $tanggal_pertemuan);
+$q_jam_mulai = implode(", ", $jam_mulai_pertemuan);
 
 // ========================
 // Query utama
@@ -120,6 +130,7 @@ SELECT
   $q_absen,
   $q_keluar,
   $q_tgl,
+  $q_jam_mulai,
   vnk.kelas_id,
   nama_dosen
 FROM view_nama_kelas vnk
@@ -170,10 +181,11 @@ foreach ($query as $value) {
         $col_masuk = 'tanggal_absen_pert_' . $i;
         $col_keluar = 'tanggal_absen_keluar_pert_' . $i;
         $col_tgl = 'tanggal_pertemuan_' . $i;
+        $col_jam_mulai = 'jam_mulai_pertemuan_' . $i;
 
         // default icon (belum absen)
-        $icon_masuk = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true' data-toggle='tooltip' data-title='Belum Absen Masuk Tanggal <br> " . tgl_indo($value->$col_tgl) . "'></i></a>";
-        $icon_keluar = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true' data-toggle='tooltip' data-title='Belum Absen Keluar Tanggal <br> " . tgl_indo($value->$col_tgl) . "'></i></a>";
+        $icon_masuk = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true' data-toggle='tooltip' data-title='Belum Absen Masuk Tanggal <br> " . tgl_indo($value->$col_tgl) . " <br> Jam Mulai " . substr($value->$col_jam_mulai, 0, 5) . "'></i></a>";
+        $icon_keluar = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true' data-toggle='tooltip' data-title='Belum Absen Keluar Tanggal <br> " . tgl_indo($value->$col_tgl) . " <br> Jam Mulai " . substr($value->$col_jam_mulai, 0, 5) . "'></i></a>";
 
         // ===== MASUK =====
         if ((int) $value->$col_masuk > 0) {
