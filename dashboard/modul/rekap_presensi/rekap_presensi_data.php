@@ -216,7 +216,7 @@ foreach ($query as $value) {
        data-toggle='tooltip' 
        data-html='true'
        data-placement='top' 
-       title='Masuk: " . $hari_masuk . "<br>" . tgl_indo($value->$col_masuk) . " " . $jam_masuk . "'>
+       title='Jadwal Masuk: " . tgl_indo($value->$col_tgl) . " <br> Jam Mulai " . substr($value->$col_jam_mulai, 0, 5) . "<br> Presensi Masuk: " . $hari_masuk . "<br>" . tgl_indo($value->$col_masuk) . " " . $jam_masuk . "'>
     </i>
 </a>";
 
