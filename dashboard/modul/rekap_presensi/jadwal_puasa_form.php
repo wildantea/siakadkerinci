@@ -173,27 +173,25 @@ include "../../inc/config.php";
     });
 </script>
 
-<div class="form-group">
-    <label for="Semester" class="control-label col-lg-2">Program Studi</label>
-    <div class="col-lg-5">
-        <select id="jur_puasa" name="jur_puasa" data-placeholder="Pilih Semester ..." class="form-control chzn-select"
-            tabindex="2" required="">
-            <?php
-            if ($_SESSION['group_level'] == 'dosen') {
-                $q = $db->query("select k.kelas_id,k.kls_nama, m.nama_mk,m.kode_mk,ku.kode_jur,
+<div class="col-lg-5">
+    <select id="jur_puasa" name="jur_puasa" data-placeholder="Pilih Semester ..." class="form-control chzn-select"
+        tabindex="2" required="">
+        <?php
+        if ($_SESSION['group_level'] == 'dosen') {
+            $q = $db->query("select k.kelas_id,k.kls_nama, m.nama_mk,m.kode_mk,ku.kode_jur,
                                    j.nama_jur from kelas k join dosen_kelas dk on k.kelas_id=dk.id_kelas inner
                                     join dosen ds on ds.nip=dk.id_dosen inner join matkul m on m.id_matkul=k.id_matkul
                                     inner join kurikulum ku on ku.kur_id=m.kur_id inner join jurusan j on
                                     j.kode_jur=ku.kode_jur where dk.id_dosen='" . $_SESSION['username'] . "' group by ku.kode_jur");
-                foreach ($q as $k) {
-                    echo "<option value='$k->kode_jur'>$k->nama_jur</option>";
-                }
-            } else {
-                looping_prodi();
+            foreach ($q as $k) {
+                echo "<option value='$k->kode_jur'>$k->nama_jur</option>";
             }
-            ?>
-        </select>
-    </div>
+        } else {
+            looping_prodi();
+        }
+        ?>
+    </select>
+</div>
 </div><!-- /.form-group -->
 <div class="form-group">
     <label for="Semester" class="control-label col-lg-2">Semester</label>

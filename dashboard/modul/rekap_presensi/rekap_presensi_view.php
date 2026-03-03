@@ -191,7 +191,7 @@
     <div class="modal-content">
       <div class="modal-header"> <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
             aria-hidden="true">×</span></button>
-        <h4 class="modal-title"><?php echo $lang["add_button"]; ?> Data Pegawai</h4>
+        <h4 class="modal-title" id="modal_data_pegawai_title">Aksi</h4>
       </div>
       <div class="modal-body" id="isi_data_pegawai"> </div>
     </div><!-- /.modal-content -->
@@ -202,6 +202,7 @@
 <script type="text/javascript">
 
   $("#geser_jadwal").click(function () {
+    $("#modal_data_pegawai_title").text("Geser Jadwal Perkuliahan");
     $.ajax({
       url: "<?= base_admin(); ?>modul/rekap_presensi/geser_jadwal_form.php",
       type: "GET",
@@ -215,6 +216,7 @@
   });
 
   $("#jadwal_puasa").click(function () {
+    $("#modal_data_pegawai_title").text("Sesuaikan Jam Bulan Puasa");
     $.ajax({
       url: "<?= base_admin(); ?>modul/rekap_presensi/jadwal_puasa_form.php",
       type: "GET",
