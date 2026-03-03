@@ -84,59 +84,68 @@ switch ($_GET["act"]) {
       $where_clause .= " AND vj.hari = '$hari_filter' ";
     }
 
-    $sql = "SELECT t.id_pertemuan, vj.jam_mulai AS jam_mulai_asli, vj.jam_selesai AS jam_selesai_asli,
-                   vj.hari, vj.ruang_id, vnk.sks
+    $sql = "SELECT t.id_pertemuan, vj.jam_mulai AS jam_mulai_asli, vj.hari, vnk.sks
             FROM tb_data_kelas_pertemuan t
             INNER JOIN kelas k ON t.kelas_id = k.kelas_id
             INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id
             INNER JOIN view_nama_kelas vnk ON t.kelas_id = vnk.kelas_id
             $where_clause
-            ORDER BY vj.ruang_id, vj.hari, vj.jam_mulai ASC";
+            ORDER BY vj.hari, vj.jam_mulai ASC";
 
     $records = $db->query($sql);
 
-    // Track jam selesai PUASA per ruangan+hari (untuk chaining)
-    $prev_selesai_puasa = [];
+    // =========================================================
+    // Tabel snap: jam_mulai normal → jam_mulai Ramadan
+    // Berdasarkan tabel "jam ke-" resmi
+    // =========================================================
+    // Senin–Kamis: tidak ada istirahat tengah hari
+    $slot_normal_seninkamis = [480, 530, 580, 630, 680, 730, 780, 830, 880, 930]; // 08:00..15:30
+    $slot_puasa_seninkamis = [480, 520, 560, 600, 640, 680, 720, 760, 800, 840]; // 08:00..14:00
+
+    // Jumat: ada istirahat puasa 12:00–12:40 (40 menit)
+    // Slot VII dst geser 40 menit
+    $slot_normal_jumat = [480, 530, 580, 630, 680, 730, 780, 830, 880, 930];
+    $slot_puasa_jumat = [480, 520, 560, 600, 640, 680, 760, 800, 840, 880]; // VII = 12:40 (setelah break)
 
     foreach ($records as $r) {
-      $key = $r->ruang_id . '|' . strtolower($r->hari);
       $is_jumat = (strtolower($r->hari) == 'jumat');
 
-      // Konversi jam ASLI ke menit
-      $parts_mulai = explode(':', $r->jam_mulai_asli);
-      $parts_selesai = explode(':', $r->jam_selesai_asli);
-      $mulai_asli_menit = (int) $parts_mulai[0] * 60 + (int) $parts_mulai[1];
-      $selesai_asli_menit = (int) $parts_selesai[0] * 60 + (int) $parts_selesai[1];
+      // Konversi jam_mulai asli ke menit
+      $parts = explode(':', $r->jam_mulai_asli);
+      $mulai_asli = (int) $parts[0] * 60 + (int) $parts[1];
 
-      // 1. Jam mulai puasa:
-      //    - Jika ada kelas sebelumnya di ruangan+hari yang sama → selalu chain (gap dihilangkan)
-      //    - Jika tidak ada → pakai jam_mulai asli
-      if (isset($prev_selesai_puasa[$key])) {
-        $mulai_menit = $prev_selesai_puasa[$key]['selesai_puasa'];
-      } else {
-        $mulai_menit = $mulai_asli_menit;
+      // Pilih tabel slot sesuai hari
+      $slot_normal = $is_jumat ? $slot_normal_jumat : $slot_normal_seninkamis;
+      $slot_puasa = $is_jumat ? $slot_puasa_jumat : $slot_puasa_seninkamis;
+
+      // Cari index "jam ke-" terdekat dari jam_mulai asli
+      $min_diff = 9999;
+      $idx = 0;
+      foreach ($slot_normal as $i => $n) {
+        $diff = abs($mulai_asli - $n);
+        if ($diff < $min_diff) {
+          $min_diff = $diff;
+          $idx = $i;
+        }
       }
 
-      // 2. SKS dari view_nama_kelas
+      // jam_mulai Ramadan = slot Ramadan sesuai jam ke-
+      $mulai_menit = $slot_puasa[$idx];
+
+      // SKS dari view_nama_kelas
       $jumlah_sks = (int) $r->sks;
       if ($jumlah_sks < 1)
         $jumlah_sks = 1;
 
-      // 3. Jam selesai = jam_mulai_puasa + (sks × 40 menit)
+      // jam_selesai = jam_mulai_puasa + (sks × 40 menit)
       $selesai_menit = $mulai_menit + ($jumlah_sks * 40);
 
-      // 4. Khusus Jumat: istirahat 12:00-12:40 (+40 menit)
+      // Khusus Jumat: jika kelas melewati break 12:00–12:40, +40 menit
       if ($is_jumat && $mulai_menit < 720 && $selesai_menit > 720) {
         $selesai_menit += 40;
       }
 
-      // 5. Simpan untuk chaining kelas berikutnya di ruangan+hari yang sama
-      $prev_selesai_puasa[$key] = [
-        'selesai_puasa' => $selesai_menit,
-        'selesai_asli' => $selesai_asli_menit,
-      ];
-
-      // 6. Format dan simpan ke DB
+      // Format dan simpan ke DB
       $p_mulai = sprintf("%02d:%02d:00", floor($mulai_menit / 60), $mulai_menit % 60);
       $p_selesai = sprintf("%02d:%02d:00", floor($selesai_menit / 60), $selesai_menit % 60);
 
