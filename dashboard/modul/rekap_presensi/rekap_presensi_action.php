@@ -68,21 +68,17 @@ switch ($_GET["act"]) {
     break;
 
   case "jadwal_puasa":
-    $jur_filter = $_POST['jur_puasa'];
-    $sem_filter = $_POST['sem_puasa'];
-    $matkul_filter = $_POST['matkul_puasa'];
-    $hari_filter = $_POST['hari_puasa'];
-    $mulai_pertemuan = (int) $_POST['mulai_pertemuan'];
-    $sampai_pertemuan = (int) $_POST['sampai_pertemuan'];
+    $ruang_filter = $_POST['ruang_puasa'] ?? 'all';
+    $sem_filter = $_POST['sem_puasa'] ?? '';
+    $hari_filter = $_POST['hari_puasa'] ?? 'all';
+    $mulai_pertemuan = (int) ($_POST['mulai_pertemuan'] ?? 1);
+    $sampai_pertemuan = (int) ($_POST['sampai_pertemuan'] ?? 16);
 
     $where_clause = " WHERE t.pertemuan >= $mulai_pertemuan AND t.pertemuan <= $sampai_pertemuan ";
     $where_clause .= " AND k.sem_id = '$sem_filter' ";
 
-    if ($jur_filter != 'all') {
-      $where_clause .= " AND ku.kode_jur = '$jur_filter' ";
-    }
-    if ($matkul_filter != 'all') {
-      $where_clause .= " AND k.id_matkul = '$matkul_filter' ";
+    if ($ruang_filter != 'all') {
+      $where_clause .= " AND vj.ruang_id = '$ruang_filter' ";
     }
     if ($hari_filter != 'all') {
       $where_clause .= " AND vj.hari = '$hari_filter' ";
@@ -91,8 +87,6 @@ switch ($_GET["act"]) {
     $sql = "SELECT t.id_pertemuan, t.jam_mulai, t.jam_selesai, vj.hari 
             FROM tb_data_kelas_pertemuan t
             INNER JOIN kelas k ON t.kelas_id = k.kelas_id
-            INNER JOIN matkul m ON k.id_matkul = m.id_matkul
-            INNER JOIN kurikulum ku ON m.kur_id = ku.kur_id
             INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id
             $where_clause";
 
