@@ -91,6 +91,8 @@ switch ($_GET["act"]) {
             INNER JOIN view_nama_kelas vnk ON t.kelas_id = vnk.kelas_id
             $where_clause";
 
+    dump($sql);
+    exit();
     $records = $db->query($sql);
 
     // Fungsi: snap jam_mulai ke slot Puasa terdekat (only for start time)
