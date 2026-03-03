@@ -111,6 +111,7 @@ $q_absen = implode(", ", $tanggal_absen);
 $q_keluar = implode(", ", $tanggal_keluar);
 $q_tgl = implode(", ", $tanggal_pertemuan);
 $q_jam_mulai = implode(", ", $jam_mulai_pertemuan);
+$q_jam_selesai = implode(", ", $jam_selesai_pertemuan);
 
 // ========================
 // Query utama
