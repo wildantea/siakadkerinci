@@ -228,7 +228,7 @@ foreach ($query as $value) {
        data-toggle='tooltip' 
        data-html='true'
        data-placement='top' 
-       title='Masuk: " . $hari_masuk . "<br>" . tgl_indo($value->$col_masuk) . " " . $jam_masuk . "'>
+       title='Jadwal Masuk: " . tgl_indo($value->$col_tgl) . " <br> Jam Mulai " . substr($value->$col_jam_mulai, 0, 5) . "<br> Presensi Masuk: " . $hari_masuk . "<br>" . tgl_indo($value->$col_masuk) . " " . $jam_masuk . "'>
     </i>
 </a>";
             }
@@ -247,9 +247,9 @@ foreach ($query as $value) {
                 $jam_keluar <= $value->jam_selesai &&
                 strtolower($hari_keluar) == strtolower($value->hari)
             ) {
-                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:green' data-toggle='tooltip' data-title='Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
+                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:green' data-toggle='tooltip' data-title='Jadwal Keluar: " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "<br> Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
             } else {
-                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:orange' data-toggle='tooltip' data-title='Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
+                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:orange' data-toggle='tooltip' data-title='Jadwal Keluar: " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "<br>Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
             }
         }
 
