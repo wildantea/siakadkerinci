@@ -88,6 +88,7 @@ switch ($_GET["act"]) {
             FROM tb_data_kelas_pertemuan t
             INNER JOIN kelas k ON t.kelas_id = k.kelas_id
             INNER JOIN view_jadwal vj ON t.jadwal_id = vj.jadwal_id
+            INNER JOIN view_nama_kelas vnk ON t.kelas_id = vnk.kelas_id
             $where_clause";
 
     $records = $db->query($sql);
@@ -132,45 +133,27 @@ switch ($_GET["act"]) {
     }
 
     foreach ($records as $r) {
-      // 1. Hitung durasi asli dalam menit
-      $parts_mulai = explode(':', $r->jam_mulai);
-      $parts_selesai = explode(':', $r->jam_selesai);
-      $menit_mulai_asli = (int) $parts_mulai[0] * 60 + (int) $parts_mulai[1];
-      $menit_selesai_asli = (int) $parts_selesai[0] * 60 + (int) $parts_selesai[1];
-
-      $is_jumat = (strtolower($r->hari) == 'jumat');
-
-      // Koreksi pembacaan durasi asli (Potong jam istirahat normal jika jadwal aslinya memotong istirahat)
-      // Istirahat normal Senin-Kamis: 12:10 s/d 13:00 (730 s/d 780 = 50 menit)
-      // Istirahat normal Jumat:       12:10 s/d 13:30 (730 s/d 810 = 80 menit)
-      $durasi_istirahat_asli = 0;
-      if ($is_jumat && $menit_mulai_asli < 730 && $menit_selesai_asli > 730) {
-        $durasi_istirahat_asli = 80;
-      } elseif (!$is_jumat && $menit_mulai_asli < 730 && $menit_selesai_asli > 730) {
-        $durasi_istirahat_asli = 50;
-      }
-
-      $durasi_asli_tanpa_istirahat = ($menit_selesai_asli - $menit_mulai_asli) - $durasi_istirahat_asli;
-
-      // 2. Hitung jumlah SKS dari durasi bersih (1 SKS ≈ 50 menit)
-      $jumlah_sks = round($durasi_asli_tanpa_istirahat / 50);
+      // 1. Ambil SKS langsung dari view_nama_kelas
+      $jumlah_sks = (int) $r->sks;
       if ($jumlah_sks < 1)
         $jumlah_sks = 1;
 
-      // 3. Snap jam mulai ke slot Puasa terdekat
+      $is_jumat = (strtolower($r->hari) == 'jumat');
+
+      // 2. Snap jam mulai ke slot Puasa terdekat
       $puasa_mulai_menit = snap_to_puasa_start($r->jam_mulai, $r->hari);
 
-      // 4. Hitung jam selesai Puasa: mulai + (SKS × 40 menit)
+      // 3. Hitung jam selesai Puasa: mulai + (SKS × 40 menit)
       $puasa_selesai_menit = $puasa_mulai_menit + ($jumlah_sks * 40);
 
       // Tambahkan offset istirahat KHUSUS hari Jumat bulan Puasa (istirahat puasa: 12:00-13:20 / 720-800)
-      if (strtolower($r->hari) == 'jumat') {
+      if ($is_jumat) {
         if ($puasa_mulai_menit < 720 && $puasa_selesai_menit > 720) {
           $puasa_selesai_menit += 80;
         }
       }
 
-      // 5. Format ke HH:MM:SS
+      // 4. Format ke HH:MM:SS
       $p_mulai = sprintf("%02d:%02d:00", floor($puasa_mulai_menit / 60), $puasa_mulai_menit % 60);
       $p_selesai = sprintf("%02d:%02d:00", floor($puasa_selesai_menit / 60), $puasa_selesai_menit % 60);
 
