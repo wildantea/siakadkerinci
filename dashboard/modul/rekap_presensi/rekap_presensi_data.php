@@ -194,8 +194,10 @@ foreach ($query as $value) {
         $col_jam_selesai = 'jam_selesai_pertemuan_' . $i;
 
         // default icon (belum absen)
-        $icon_masuk = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true' data-toggle='tooltip' data-title='Belum Absen Masuk Tanggal <br> " . tgl_indo($value->$col_tgl) . " <br> Jam Mulai " . substr($value->$col_jam_mulai, 0, 5) . "'></i></a>";
-        $icon_keluar = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true' data-toggle='tooltip' data-title='Belum Absen Keluar Tanggal <br> " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "'></i></a>";
+        $icon_masuk = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true'  data-html='true'
+       data-placement='top'  data-toggle='tooltip' data-title='Belum Absen Masuk Tanggal <br> " . tgl_indo($value->$col_tgl) . " <br> Jam Mulai " . substr($value->$col_jam_mulai, 0, 5) . "'></i></a>";
+        $icon_keluar = "<a class='btn btn-default'><i class='fa fa-close' style='color:red' data-html='true'  data-html='true'
+       data-placement='top'  data-toggle='tooltip' data-title='Belum Absen Keluar Tanggal <br> " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "'></i></a>";
 
         // ===== MASUK =====
         if ((int) $value->$col_masuk > 0) {
@@ -247,9 +249,11 @@ foreach ($query as $value) {
                 $jam_keluar <= $value->jam_selesai &&
                 strtolower($hari_keluar) == strtolower($value->hari)
             ) {
-                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:green' data-toggle='tooltip' data-title='Jadwal Keluar: " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "<br> Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
+                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:green' data-toggle='tooltip'  data-html='true'
+       data-placement='top'  data-title='Jadwal Keluar: " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "<br> Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
             } else {
-                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:orange' data-toggle='tooltip' data-title='Jadwal Keluar: " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "<br>Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
+                $icon_keluar = "<a class='btn btn-default'><i class='fa fa-check' style='color:orange' data-toggle='tooltip'  data-html='true'
+       data-placement='top'  data-title='Jadwal Keluar: " . tgl_indo($value->$col_tgl) . " <br> Jam Selesai " . substr($value->$col_jam_selesai, 0, 5) . "<br>Keluar: " . $hari_keluar . ", " . $jam_keluar . "'></i></a>";
             }
         }
 
